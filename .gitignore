@@ -1,0 +1,4 @@
+FS-002_visuals/*
+!FS-002_visuals/MANIFEST.csv
+!FS-002_visuals/REPORT.md
+
