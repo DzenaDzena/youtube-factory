@@ -5,13 +5,13 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with a real candidate (file + licence): **143**
-- Shots to be cut as crops/composites of those files: **9**
-- Shots marked NOT FOUND (leads in manifest): **23**
+- Shots with a real candidate (file + licence): **144**
+- Shots to be cut as crops/composites of those files: **10**
+- Shots marked NOT FOUND (leads in manifest): **21**
 - Shots with the full main + 2 alt: **27** (second pass for alternates was not done)
-- Candidate rows: **286** — CC0_VERIFIED: 67, CC_BY_VERIFIED: 38, PUBLIC_DOMAIN_VERIFIED: 178, VERIFY: 3
+- Candidate rows: **287** — CC0_VERIFIED: 67, CC_BY_VERIFIED: 38, PUBLIC_DOMAIN_VERIFIED: 179, VERIFY: 3
 - Video clips cut: **3** (target in brief ~40; see VIDEO_LEADS.md)
-- Files on disk: **101**; **185** rows have licence + direct URL but the image is not downloaded yet
+- Files on disk: **102**; **185** rows have licence + direct URL but the image is not downloaded yet
 
 ## 1. What you must do first: download the missing files
 
@@ -63,12 +63,11 @@ I could only look at pictures that were downloaded. For Commons images (not yet 
 - **S248B** — S228A / S229A (Nationaal Archief 1947) - crop on the tiara. Cut after the source file is downloaded; different crop for each shot per brief rule.
 - **S255B** — same five-portrait composite as S127B, faded. Cut after the source file is downloaded; different crop for each shot per brief rule.
 - **S256A** — S229A main (Nationaal Archief 1947, 902-4694 crop) - soft focus. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S021B** — S020A main (Girlhood vol. II p.318) - crop on the lines 'I wore my Turkish diamond necklace and earrings, and Albert's beautiful sapphire brooch' (lower middle of the page) and/or footnote 2. Cut after the source file is downloaded.
 
 ## 5. NOT FOUND (with leads)
 
-- **S020A** 01:25.48–01:28.18 — need: Queen Victoria's journal page facsimile (PD; Commons/archive.org) — **why / lead:** No facsimile of Victoria's 10 Feb 1840 journal page found with clear rights. Lead: archive.org 'girlhoodofqueenv01victuoft' (1912, NOT_IN_COPYRIGHT) - printed text pages of the diaries; RCT facsimile not allowed.
 - **S021A** 01:28.18–01:30.53 — need: Victoria writing / Victoria at desk engraving (PD) — **why / lead:** No clear-rights 'Victoria writing' image found. Lead: Commons category 'Queen Victoria' paintings (e.g. Victoria at desk by Sir George Hayter / Tuxen) - search Commons 'Queen Victoria writing'.
-- **S021B** 01:30.53–01:32.88 — need: journal page close-up — **why / lead:** Close-up of a journal page: use S028A/S112A style page scans from archive.org ('girlhoodofqueenv01victuoft' pages with diary text) - not yet cut.
 - **S022B** 01:35.94–01:39.00 — need: wedding procession engraving 1840 (PD, ILN/Met) — **why / lead:** Lead: archive.org 'A complete narrative of the celebration of the nuptials of Her Most Gracious Majesty Queen Victoria' (PD, 1840) - procession plates; also ILN 1840 on archive.org. Not downloaded.
 - **S067A** 04:51.44–04:56.08 — need: Dagmar Necklace — ILN 1863 engraving or Danish archive drawing (PD); f — **why / lead:** No ILN 1863 engraving of the Dagmar necklace found. Lead: archive.org Illustrated London News vol. 42 (1863) and Met plate S065B (parure of the Prince of Wales - NOT Dagmar).
 - **S077A** 05:40.34–05:45.42 — need: 1968 book cover? (copyrighted — DON'T) → GFX: card "Young, 1968 — book — **why / lead:** By brief: GFX card only (book cover is copyrighted) - not a search shot.
