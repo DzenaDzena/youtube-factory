@@ -339,17 +339,17 @@
    "durationFrames": 92,
    "narrator": "to marry him, Victoria noted, \"Albert's beautiful sapphire brooch.\"",
    "need": "wedding procession engraving 1840 (PD, ILN/Met)",
-   "state": "NOT_FOUND",
+   "state": "HAS_FILE",
    "files": {
-    "main": null,
+    "main": "S022B_main__hayter-marriage-oil-sketch-405851.jpg",
     "alt1": null,
     "alt2": null
    },
    "extraFiles": [],
    "credits": {},
    "isJewelShot": false,
-   "needsCheck": false,
-   "note": ""
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY MEANING: oil sketch of the marriage ceremony (Chapel Roy"
   },
   {
    "shot": "S024A",
@@ -2469,17 +2469,17 @@
    "durationFrames": 84,
    "narrator": "the Duchess of Cambridge, and that Mary acquired them in 1910.",
    "need": "Queen Mary 1910 photo (PD)",
-   "state": "NOT_FOUND",
+   "state": "HAS_FILE",
    "files": {
-    "main": null,
+    "main": "S153B_main__mary-duchess-of-york-1898.jpg",
     "alt1": null,
     "alt2": null
    },
    "extraFiles": [],
    "credits": {},
    "isJewelShot": false,
-   "needsCheck": false,
-   "note": ""
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY MEANING: Mary of Teck as Duchess of York 1898, not 1910;"
   },
   {
    "shot": "S155A",
@@ -3403,9 +3403,9 @@
    "durationFrames": 112,
    "narrator": "Her mother kept these earrings for sixty years and,",
    "need": "Queen Mother later photo rights-clear (gov/CC, verify)",
-   "state": "NOT_FOUND",
+   "state": "HAS_FILE",
    "files": {
-    "main": null,
+    "main": "S213A_main__queen-mother-portrait-1986.jpg",
     "alt1": null,
     "alt2": null
    },
@@ -3413,7 +3413,7 @@
    "credits": {},
    "isJewelShot": false,
    "needsCheck": false,
-   "note": ""
+   "note": " [2238x2825]"
   },
   {
    "shot": "S216A",
@@ -3638,17 +3638,19 @@
    "durationFrames": 70,
    "narrator": "through decades of the reign, until the Queen Mother died in March two thousand two.",
    "need": "Queen Mother in later years rights-clear",
-   "state": "NOT_FOUND",
+   "state": "HAS_FILE",
    "files": {
-    "main": null,
+    "main": "S235A_main__queen-mother-1989.jpg",
     "alt1": null,
     "alt2": null
    },
    "extraFiles": [],
-   "credits": {},
+   "credits": {
+    "main": "Helmholtz19 / CC BY-SA 3.0"
+   },
    "isJewelShot": false,
    "needsCheck": false,
-   "note": ""
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; CC BY-SA 3.0 condition; 1989 [1394x1979]"
   },
   {
    "shot": "S246A",
