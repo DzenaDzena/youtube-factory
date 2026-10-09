@@ -2,3 +2,4 @@ FS-002_visuals/*
 !FS-002_visuals/MANIFEST.csv
 !FS-002_visuals/REPORT.md
 
+!FS-002_visuals/fetch_pending.py
