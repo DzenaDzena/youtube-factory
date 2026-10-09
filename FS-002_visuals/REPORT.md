@@ -8,10 +8,10 @@ _Generated 2026-10-09 from MANIFEST.csv_
 - Shots with a real candidate (file + licence): **142**
 - Shots to be cut as crops/composites of those files: **9**
 - Shots marked NOT FOUND (leads in manifest): **24**
-- Shots with the full main + 2 alt: **19** (second pass for alternates was not done)
-- Candidate rows: **235** — CC0_VERIFIED: 48, CC_BY_VERIFIED: 31, PUBLIC_DOMAIN_VERIFIED: 153, VERIFY: 3
+- Shots with the full main + 2 alt: **26** (second pass for alternates was not done)
+- Candidate rows: **252** — CC0_VERIFIED: 51, CC_BY_VERIFIED: 38, PUBLIC_DOMAIN_VERIFIED: 160, VERIFY: 3
 - Video clips cut: **3** (target in brief ~40; see VIDEO_LEADS.md)
-- Files on disk: **67**; **168** rows have licence + direct URL but the image is not downloaded yet
+- Files on disk: **67**; **185** rows have licence + direct URL but the image is not downloaded yet
 
 ## 1. What you must do first: download the missing files
 
