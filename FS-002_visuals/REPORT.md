@@ -5,11 +5,11 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with at least one rights-cleared candidate (main): **104**
-- Shots with 3 variants (main + 2 alt): **3**
-- Shots with NO candidate yet: **71**
-- Manifest rows: **130** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 20, PUBLIC_DOMAIN_VERIFIED: 92, VERIFY: 2
-- Files on disk: **22**; **108** rows have licence + direct URL but the image is not downloaded yet (see below)
+- Shots with at least one rights-cleared candidate (main): **126**
+- Shots with 3 variants (main + 2 alt): **5**
+- Shots with NO candidate yet: **49**
+- Manifest rows: **157** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 22, PUBLIC_DOMAIN_VERIFIED: 117, VERIFY: 2
+- Files on disk: **28**; **129** rows have licence + direct URL but the image is not downloaded yet (see below)
 
 ## IMPORTANT: files that still need downloading
 
@@ -27,9 +27,7 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S021A** 01:28.18–01:30.53 — Victoria writing / Victoria at desk engraving (PD)
 - **S021B** 01:30.53–01:32.88 — journal page close-up
 - **S022B** 01:35.94–01:39.00 — wedding procession engraving 1840 (PD, ILN/Met)
-- **S027A** 01:55.86–01:59.82 — older Queen Victoria photo 1880s–90s (PD)
 - **S028A** 01:59.82–02:02.65 — title page of "Letters/Journals of Queen Victoria" 1912 edition (archive.org PD)
-- **S030A** 02:08.94–02:12.78 — Elizabeth II accession 1952 — rights-clear photo or newspaper front page Feb 1952 (PD check) ; GFX "February 1
 - **S044A** 03:10.32–03:15.16 — Garrard / 19th-c. jeweller's shop engraving (PD) + GFX "Garrard 1858"
 - **S052A** 03:48.20–03:52.92 — Victoria in widowhood with necklace, photo 1880s–90s (PD)
 - **S054A** 03:57.76–04:01.80 — same Winterhalter, close crop on earrings/necklace
@@ -41,52 +39,32 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S072A** 05:15.02–05:19.08 — King Canute medieval manuscript illustration (PD, BL/Commons)
 - **S075A** 05:29.30–05:32.46 — Fildes portrait close crop on jewels at bodice
 - **S077A** 05:40.34–05:45.42 — 1968 book cover? (copyrighted — DON'T) → GFX: card "Young, 1968 — book on the Queen's jewelry" with neutral bo
-- **S078A** 05:45.42–05:50.22 — Queen Mary portrait (PD) + GFX "1953"
 - **S082B** 06:08.83–06:12.36 — St Petersburg 1880s view (PD)
 - **S084A** 06:17.50–06:22.14 — Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX "25 years"
 - **S085A** 06:22.14–06:25.42 — group of Victorian society ladies in court dress, photo 1880s (PD)
 - **S087A** 06:33.00–06:38.20 — Garrard shop / 1880s jeweller (PD) + GFX "£4,400 · 61 bars"
 - **S088A** 06:38.20–06:42.06 — Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC, PD)
-- **S096A** 07:15.60–07:20.00 — Queen Mary wearing kokoshnik tiara, photo 1920s–30s (LOC Bain/PD, verify tiara)
-- **S097A** 07:20.00–07:22.93 — Queen Mary late portrait (PD)
 - **S103A** 07:49.46–07:54.18 — St Petersburg 1870s view / wedding 1874 (PD)
 - **S105A** 07:57.56–08:01.40 — **[JEWEL]** Vladimir tiara — LAC 1959 portrait of Elizabeth II (PD-Canada-Crown, verify)
 - **S112A** 08:27.70–08:32.32 — archive.org diary page crop with letter passage
 - **S113A** 08:32.32–08:34.85 — Petrograd 1917 railway station photo (PD)
 - **S115A** 08:40.68–08:44.02 — diary closed / page blank margin crop; GFX "silent"
-- **S118A** 08:52.14–08:55.04 — Queen Mary 1920s photo (PD) + GFX "1921"
 - **S121A** 09:06.70–09:09.86 — **[JEWEL]** rights-clear photo of Elizabeth II in Vladimir with emeralds (US gov / Dutch NA candidates, verify
 - **S121B** 09:09.86–09:13.02 — **[JEWEL]** with pearls (LAC 1959)
-- **S122A** 09:13.02–09:17.74 — Duchess of Cambridge (Augusta) portrait (PD) + GFX "Cambridge emeralds"
 - **S127B** 09:34.91–09:37.22 — five first-wearer portraits side by side
-- **S132A** 09:55.32–09:59.84 — 1914 London street / eve of WWI photo (PD)
 - **S133A** 09:59.84–10:04.50 — Garrard / jeweller (PD) + GFX "Lover's Knot"
-- **S134A** 10:04.50–10:09.16 — Princess Augusta, Duchess of Cambridge portrait (PD)
-- **S137A** 10:15.72–10:20.62 — Queen Mary in the Lover's Knot tiara (LOC Bain/PD, verify tiara)
 - **S143B** 10:44.89–10:48.44 — **[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / gov PD, verify)
-- **S145A** 10:53.40–10:58.10 — Duchess of Cambridge (Augusta) portrait again (different crop)
-- **S152A** 11:22.00–11:25.76 — Duchess of Cambridge portrait (PD)
 - **S153B** 11:28.55–11:31.34 — Queen Mary 1910 photo (PD)
 - **S155A** 11:37.62–11:40.16 — Frankfurt 19th-c. view (PD)
-- **S156A** 11:42.70–11:45.40 — Princess Mary Adelaide, Duchess of Teck portrait (PD)
-- **S156B** 11:45.40–11:48.10 — Prince Francis of Teck photo (PD)
-- **S157A** 11:48.10–11:53.04 — Prince Francis of Teck photo (PD) + GFX "1870–1910"
-- **S168A** 12:43.90–12:48.18 — Queen Mary in Delhi Durbar tiara (PD)
 - **S169A** 12:48.18–12:52.58 — Queen Elizabeth (consort) 1940s photo (PD gov/archive, verify) + GFX "1946"
 - **S179A** 13:32.02–13:37.14 — Asscher cleaving the Cullinan 1908 photo (PD)
 - **S180A** 13:37.14–13:39.21 — Asscher workshop 1908 photo (PD)
-- **S182A** 13:46.78–13:51.70 — Queen Mary photo with Cullinan brooch (PD)
 - **S186A** 14:03.96–14:06.46 — Queen Mary wearing the Cullinan III&IV brooch (PD photo, verify)
 - **S187A** 14:06.46–14:12.72 — Queen Mary in Delhi Durbar tiara with Cullinan (PD)
 - **S193A** 14:34.94–14:39.12 — Carolus-Duran portrait of Mrs Greville (National Trust, PD)
-- **S196A** 14:47.42–14:49.17 — William McEwan portrait (PD)
-- **S196B** 14:49.17–14:50.92 — McEwan's brewery Fountainbridge (PD)
 - **S210A** 15:54.44–15:59.14 — Queen Elizabeth consort portrait (PD gov)
 - **S213A** 16:09.84–16:13.58 — Queen Mother later photo rights-clear (gov/CC, verify)
 - **S216A** 16:20.56–16:25.94 — **[JEWEL]** 2011 Turkey state banquet photo with Greville earrings + Coronation Necklace (rights-clear only, f
-- **S220B** 16:44.83–16:47.56 — Queen Victoria 1893 photo (PD)
-- **S225A** 17:03.56–17:07.94 — George III portrait (PD) + GFX "often said…"
-- **S231A** 17:34.08–17:39.50 — bridesmaids 1947 group photo (PD/CC0, verify)
 - **S235A** 17:51.34–17:53.67 — Queen Mother in later years rights-clear
 - **S246A** 18:40.90–18:44.20 — **[JEWEL]** Queen Mary in Fringe tiara (PD) — reveal
 - **S247A** 18:44.20–18:47.82 — **[JEWEL]** 1947 wedding photo (Nationaal Archief CC0) full
