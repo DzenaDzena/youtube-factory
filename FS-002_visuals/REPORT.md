@@ -5,13 +5,13 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with a real candidate (file + licence): **138**
+- Shots with a real candidate (file + licence): **142**
 - Shots to be cut as crops/composites of those files: **9**
-- Shots marked NOT FOUND (leads in manifest): **28**
-- Shots with the full main + 2 alt: **5** (second pass for alternates was not done)
-- Candidate rows: **169** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 23, PUBLIC_DOMAIN_VERIFIED: 127, VERIFY: 3
+- Shots marked NOT FOUND (leads in manifest): **24**
+- Shots with the full main + 2 alt: **19** (second pass for alternates was not done)
+- Candidate rows: **235** — CC0_VERIFIED: 48, CC_BY_VERIFIED: 31, PUBLIC_DOMAIN_VERIFIED: 153, VERIFY: 3
 - Video clips cut: **3** (target in brief ~40; see VIDEO_LEADS.md)
-- Files on disk: **34**; **135** rows have licence + direct URL but the image is not downloaded yet
+- Files on disk: **67**; **168** rows have licence + direct URL but the image is not downloaded yet
 
 ## 1. What you must do first: download the missing files
 
@@ -70,18 +70,14 @@ I could only look at pictures that were downloaded. For Commons images (not yet 
 - **S021A** 01:28.18–01:30.53 — need: Victoria writing / Victoria at desk engraving (PD) — **why / lead:** No clear-rights 'Victoria writing' image found. Lead: Commons category 'Queen Victoria' paintings (e.g. Victoria at desk by Sir George Hayter / Tuxen) - search Commons 'Queen Victoria writing'.
 - **S021B** 01:30.53–01:32.88 — need: journal page close-up — **why / lead:** Close-up of a journal page: use S028A/S112A style page scans from archive.org ('girlhoodofqueenv01victuoft' pages with diary text) - not yet cut.
 - **S022B** 01:35.94–01:39.00 — need: wedding procession engraving 1840 (PD, ILN/Met) — **why / lead:** Lead: archive.org 'A complete narrative of the celebration of the nuptials of Her Most Gracious Majesty Queen Victoria' (PD, 1840) - procession plates; also ILN 1840 on archive.org. Not downloaded.
-- **S044A** 03:10.32–03:15.16 — need: Garrard / 19th-c. jeweller's shop engraving (PD) + GFX "Garrard 1858" — **why / lead:** No PD Garrard shop image found. Lead: Commons category 'Garrard & Co'; archive.org Victorian guidebooks to London (Regent St / Haymarket).
-- **S052A** 03:48.20–03:52.92 — need: Victoria in widowhood with necklace, photo 1880s–90s (PD) — **why / lead:** No clear-rights photo of Victoria in widowhood wearing the necklace found. Lead: Commons 'Queen Victoria' 1880s-90s photographs (Bassano/Downey/Hughes & Mullins) - check each file page.
 - **S067A** 04:51.44–04:56.08 — need: Dagmar Necklace — ILN 1863 engraving or Danish archive drawing (PD); f — **why / lead:** No ILN 1863 engraving of the Dagmar necklace found. Lead: archive.org Illustrated London News vol. 42 (1863) and Met plate S065B (parure of the Prince of Wales - NOT Dagmar).
 - **S077A** 05:40.34–05:45.42 — need: 1968 book cover? (copyrighted — DON'T) → GFX: card "Young, 1968 — book — **why / lead:** By brief: GFX card only (book cover is copyrighted) - not a search shot.
 - **S084A** 06:17.50–06:22.14 — need: Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX "25  — **why / lead:** No clear 1888 silver wedding image. Lead: Commons 'Queen Alexandra' 1888 prints (BM). S009A already uses BM 1902,1011.10420.
 - **S085A** 06:22.14–06:25.42 — need: group of Victorian society ladies in court dress, photo 1880s (PD) — **why / lead:** Lead: Judge magazine 2 Jul 1887 (Commons, PD) - Victorian caricature, not a court-dress photo. No photo with clear rights found.
-- **S087A** 06:33.00–06:38.20 — need: Garrard shop / 1880s jeweller (PD) + GFX "£4,400 · 61 bars" — **why / lead:** Same as S044A (Garrard shop 1880s) - NOT FOUND; GFX card suggested in the brief.
 - **S088A** 06:38.20–06:42.06 — need: Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC — **why / lead:** LOC Prokudin-Gorskii search returned Armenian/Georgian/Bashkir women, none in a Russian kokoshnik. Lead: loc.gov/collections/prokudin-gorskii - browse 'peasant girls' items manually.
 - **S103A** 07:49.46–07:54.18 — need: St Petersburg 1870s view / wedding 1874 (PD) — **why / lead:** No wedding-1874 / St Petersburg 1870s image beyond S082B. Lead: Commons category 'Saint Petersburg in the 1870s'.
 - **S113A** 08:32.32–08:34.85 — need: Petrograd 1917 railway station photo (PD) — **why / lead:** No Petrograd railway station photo found. Lead: LOC Bain collection 'Petrograd' 1917; Commons 'Nikolaevsky station 1917'.
 - **S121A** 09:06.70–09:09.86 — need: **[JEWEL]** rights-clear photo of Elizabeth II in Vladimir with emeral — **why / lead:** JEWEL: no rights-clear photo of Elizabeth II in the Vladimir tiara with emeralds found. Lead: Nationaal Archief 1958 state-visit photos (S189A candidates 909-4441/4460) - check whether the tiara is the Vladimir; LAC 1959 portrait is the version with pearls.
-- **S133A** 09:59.84–10:04.50 — need: Garrard / jeweller (PD) + GFX "Lover's Knot" — **why / lead:** Same as S044A (Garrard) - NOT FOUND; GFX 'Lover's Knot' suggested.
 - **S143B** 10:44.89–10:48.44 — need: **[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / — **why / lead:** JEWEL: no rights-clear photo of Catherine in the Lover's Knot found. Lead: Commons 'Catherine, Princess of Wales' diplomatic reception 2015+ (tiara worn 2015-2019); only CC licences count.
 - **S153B** 11:28.55–11:31.34 — need: Queen Mary 1910 photo (PD) — **why / lead:** No Queen Mary 1910 photo found. Lead: Commons 'Duchess of York, 1898' (No restrictions) shows Mary of Teck, but 12 years early.
 - **S169A** 12:48.18–12:52.58 — need: Queen Elizabeth (consort) 1940s photo (PD gov/archive, verify) + GFX " — **why / lead:** No rights-clear 1940s photo of Queen Elizabeth (consort). Lead: UK National Archives INF3-78 (S209B), Universal Newsreel 1939 tour (VIDEO_LEADS.md).
