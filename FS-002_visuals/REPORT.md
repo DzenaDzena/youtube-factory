@@ -5,13 +5,13 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with a real candidate (file + licence): **144**
+- Shots with a real candidate (file + licence): **145**
 - Shots to be cut as crops/composites of those files: **10**
-- Shots marked NOT FOUND (leads in manifest): **21**
+- Shots marked NOT FOUND (leads in manifest): **20**
 - Shots with the full main + 2 alt: **27** (second pass for alternates was not done)
-- Candidate rows: **287** — CC0_VERIFIED: 67, CC_BY_VERIFIED: 38, PUBLIC_DOMAIN_VERIFIED: 179, VERIFY: 3
+- Candidate rows: **288** — CC0_VERIFIED: 67, CC_BY_VERIFIED: 38, PUBLIC_DOMAIN_VERIFIED: 180, VERIFY: 3
 - Video clips cut: **3** (target in brief ~40; see VIDEO_LEADS.md)
-- Files on disk: **102**; **185** rows have licence + direct URL but the image is not downloaded yet
+- Files on disk: **102**; **186** rows have licence + direct URL but the image is not downloaded yet
 
 ## 1. What you must do first: download the missing files
 
@@ -74,7 +74,6 @@ I could only look at pictures that were downloaded. For Commons images (not yet 
 - **S084A** 06:17.50–06:22.14 — need: Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX "25  — **why / lead:** No clear 1888 silver wedding image. Lead: Commons 'Queen Alexandra' 1888 prints (BM). S009A already uses BM 1902,1011.10420.
 - **S085A** 06:22.14–06:25.42 — need: group of Victorian society ladies in court dress, photo 1880s (PD) — **why / lead:** Lead: Judge magazine 2 Jul 1887 (Commons, PD) - Victorian caricature, not a court-dress photo. No photo with clear rights found.
 - **S088A** 06:38.20–06:42.06 — need: Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC — **why / lead:** LOC Prokudin-Gorskii search returned Armenian/Georgian/Bashkir women, none in a Russian kokoshnik. Lead: loc.gov/collections/prokudin-gorskii - browse 'peasant girls' items manually.
-- **S103A** 07:49.46–07:54.18 — need: St Petersburg 1870s view / wedding 1874 (PD) — **why / lead:** No wedding-1874 / St Petersburg 1870s image beyond S082B. Lead: Commons category 'Saint Petersburg in the 1870s'.
 - **S121A** 09:06.70–09:09.86 — need: **[JEWEL]** rights-clear photo of Elizabeth II in Vladimir with emeral — **why / lead:** JEWEL: no rights-clear photo of Elizabeth II in the Vladimir tiara with emeralds found. Lead: Nationaal Archief 1958 state-visit photos (S189A candidates 909-4441/4460) - check whether the tiara is the Vladimir; LAC 1959 portrait is the version with pearls.
 - **S143B** 10:44.89–10:48.44 — need: **[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / — **why / lead:** JEWEL: no rights-clear photo of Catherine in the Lover's Knot found. Lead: Commons 'Catherine, Princess of Wales' diplomatic reception 2015+ (tiara worn 2015-2019); only CC licences count.
 - **S153B** 11:28.55–11:31.34 — need: Queen Mary 1910 photo (PD) — **why / lead:** No Queen Mary 1910 photo found. Lead: Commons 'Duchess of York, 1898' (No restrictions) shows Mary of Teck, but 12 years early.
