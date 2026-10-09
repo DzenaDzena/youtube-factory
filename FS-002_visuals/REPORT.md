@@ -5,11 +5,11 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with at least one rights-cleared candidate (main): **88**
+- Shots with at least one rights-cleared candidate (main): **104**
 - Shots with 3 variants (main + 2 alt): **3**
-- Shots with NO candidate yet: **87**
-- Manifest rows: **109** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 18, PUBLIC_DOMAIN_VERIFIED: 73, VERIFY: 2
-- Files on disk: **20**; **89** rows have licence + direct URL but the image is not downloaded yet (see below)
+- Shots with NO candidate yet: **71**
+- Manifest rows: **130** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 20, PUBLIC_DOMAIN_VERIFIED: 92, VERIFY: 2
+- Files on disk: **22**; **108** rows have licence + direct URL but the image is not downloaded yet (see below)
 
 ## IMPORTANT: files that still need downloading
 
@@ -27,46 +27,30 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S021A** 01:28.18–01:30.53 — Victoria writing / Victoria at desk engraving (PD)
 - **S021B** 01:30.53–01:32.88 — journal page close-up
 - **S022B** 01:35.94–01:39.00 — wedding procession engraving 1840 (PD, ILN/Met)
-- **S024A** 01:43.70–01:47.78 — Queen Victoria portrait 1840s with brooch at bodice (PD painting)
 - **S027A** 01:55.86–01:59.82 — older Queen Victoria photo 1880s–90s (PD)
 - **S028A** 01:59.82–02:02.65 — title page of "Letters/Journals of Queen Victoria" 1912 edition (archive.org PD)
 - **S030A** 02:08.94–02:12.78 — Elizabeth II accession 1952 — rights-clear photo or newspaper front page Feb 1952 (PD check) ; GFX "February 1
-- **S033A** 02:22.28–02:25.18 — Victoria & Albert portrait (PD) warm grade
-- **S041A** 02:54.54–02:58.06 — Victoria portrait 1850s (PD), slow push
 - **S044A** 03:10.32–03:15.16 — Garrard / 19th-c. jeweller's shop engraving (PD) + GFX "Garrard 1858"
-- **S051A** 03:43.84–03:48.20 — Victoria photo full figure 1860s–80s (PD) showing small stature
 - **S052A** 03:48.20–03:52.92 — Victoria in widowhood with necklace, photo 1880s–90s (PD)
 - **S054A** 03:57.76–04:01.80 — same Winterhalter, close crop on earrings/necklace
 - **S061A** 04:27.86–04:30.28 — Victoria portrait (PD) dim → transition
-- **S061B** 04:30.28–04:32.70 — Copenhagen 1860s view (PD)
-- **S064A** 04:38.66–04:43.46 — wedding of Albert Edward & Alexandra 1863, Frith painting / ILN engraving (PD)
-- **S065A** 04:43.46–04:45.58 — Alexandra in wedding dress 1863 photo (PD)
 - **S067A** 04:51.44–04:56.08 — Dagmar Necklace — ILN 1863 engraving or Danish archive drawing (PD); fallback AI diamond-and-pearl necklace wi
 - **S068A** 04:56.08–05:00.94 — Dagmar Cross original (National Museum of Denmark, check CC licence)
 - **S069B** 05:03.95–05:06.96 — Queen Dagmar medieval depiction (PD)
 - **S070A** 05:06.96–05:10.40 — Frederik VII portrait alt crop
 - **S072A** 05:15.02–05:19.08 — King Canute medieval manuscript illustration (PD, BL/Commons)
-- **S073A** 05:19.08–05:21.89 — medieval Danish church interior (Commons CC)
 - **S075A** 05:29.30–05:32.46 — Fildes portrait close crop on jewels at bodice
 - **S077A** 05:40.34–05:45.42 — 1968 book cover? (copyrighted — DON'T) → GFX: card "Young, 1968 — book on the Queen's jewelry" with neutral bo
 - **S078A** 05:45.42–05:50.22 — Queen Mary portrait (PD) + GFX "1953"
-- **S081A** 06:00.14–06:05.30 — Alexandra portrait c.1880s (PD)
 - **S082B** 06:08.83–06:12.36 — St Petersburg 1880s view (PD)
 - **S084A** 06:17.50–06:22.14 — Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX "25 years"
 - **S085A** 06:22.14–06:25.42 — group of Victorian society ladies in court dress, photo 1880s (PD)
 - **S087A** 06:33.00–06:38.20 — Garrard shop / 1880s jeweller (PD) + GFX "£4,400 · 61 bars"
 - **S088A** 06:38.20–06:42.06 — Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC, PD)
-- **S090A** 06:46.66–06:49.71 — Alexandra and Maria Feodorovna sisters photo (PD)
-- **S090B** 06:49.71–06:52.76 — Maria Feodorovna coronation portrait (PD)
-- **S092A** 06:56.04–06:59.96 — Alexandra in tiara photo 1890s (PD)
-- **S095A** 07:11.28–07:15.60 — Queen Alexandra late photo / funeral 1925 (PD)
 - **S096A** 07:15.60–07:20.00 — Queen Mary wearing kokoshnik tiara, photo 1920s–30s (LOC Bain/PD, verify tiara)
 - **S097A** 07:20.00–07:22.93 — Queen Mary late portrait (PD)
-- **S099A** 07:28.86–07:31.80 — Russia 1917 revolution crowd photo (PD)
-- **S099B** 07:31.80–07:34.74 — Winter Palace 1917 (PD)
 - **S103A** 07:49.46–07:54.18 — St Petersburg 1870s view / wedding 1874 (PD)
 - **S105A** 07:57.56–08:01.40 — **[JEWEL]** Vladimir tiara — LAC 1959 portrait of Elizabeth II (PD-Canada-Crown, verify)
-- **S108A** 08:07.04–08:09.43 — Kislovodsk pre-1917 photo / postcard (PD)
 - **S112A** 08:27.70–08:32.32 — archive.org diary page crop with letter passage
 - **S113A** 08:32.32–08:34.85 — Petrograd 1917 railway station photo (PD)
 - **S115A** 08:40.68–08:44.02 — diary closed / page blank margin crop; GFX "silent"
