@@ -52,7 +52,7 @@ for r in todo:
         if os.path.exists(part):
             os.remove(part)
         if code == "429":
-            w = min(retry_after("hdr.tmp"), 120)
+            w = min(retry_after("hdr.tmp"), 900) + 5
             print(f"  {r['file'][:40]}: site asks to wait, sleeping {w}s")
             time.sleep(w)
         else:
@@ -64,7 +64,7 @@ for r in todo:
     else:
         failed += 1
         print("FAILED", r["file"], r["direct_file_url"])
-    time.sleep(3)
+    time.sleep(15 if "wikimedia" in r["direct_file_url"] else 3)
 
 if os.path.exists("hdr.tmp"):
     os.remove("hdr.tmp")
