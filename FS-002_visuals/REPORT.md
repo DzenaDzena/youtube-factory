@@ -5,98 +5,99 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with at least one rights-cleared candidate (main): **126**
-- Shots with 3 variants (main + 2 alt): **5**
-- Shots with NO candidate yet: **49**
-- Manifest rows: **157** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 22, PUBLIC_DOMAIN_VERIFIED: 117, VERIFY: 2
-- Files on disk: **28**; **129** rows have licence + direct URL but the image is not downloaded yet (see below)
+- Shots with a real candidate (file + licence): **138**
+- Shots to be cut as crops/composites of those files: **9**
+- Shots marked NOT FOUND (leads in manifest): **28**
+- Shots with the full main + 2 alt: **5** (second pass for alternates was not done)
+- Candidate rows: **169** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 23, PUBLIC_DOMAIN_VERIFIED: 127, VERIFY: 3
+- Video clips cut: **3** (target in brief ~40; see VIDEO_LEADS.md)
+- Files on disk: **34**; **135** rows have licence + direct URL but the image is not downloaded yet
 
-## IMPORTANT: files that still need downloading
+## 1. What you must do first: download the missing files
 
-`upload.wikimedia.org` rate-limits the cloud environment (HTTP 429, Retry-After 600), so images from Wikimedia Commons could not be downloaded here. Licences, authors and proof pages were checked on Commons and are in the manifest/proof folder. To finish, run on a normal computer, from inside `FS-002_visuals/`:
+`upload.wikimedia.org` blocks image downloads from the cloud environment used for this work (HTTP 429, Retry-After 600). Licences, authors and proof pages for those files were checked on Commons and are saved. Download the images on a normal computer, from inside `FS-002_visuals/`:
 
 ```
 python3 fetch_pending.py
 ```
 
-Met, LOC and archive.org files were downloaded in full; their proofs are API records / page HTML (metmuseum.org pages were unreachable from this network, so Met proofs are the Open Access API record with `isPublicDomain: true`).
+Met, LOC and archive.org files are already downloaded. Note: metmuseum.org pages were unreachable, so Met proofs are the Open Access API record (`isPublicDomain: true`).
 
-## Shots with NO candidate yet
+## 2. Rows that need a human decision (status VERIFY)
 
-- **S020A** 01:25.48–01:28.18 — Queen Victoria's journal page facsimile (PD; Commons/archive.org)
-- **S021A** 01:28.18–01:30.53 — Victoria writing / Victoria at desk engraving (PD)
-- **S021B** 01:30.53–01:32.88 — journal page close-up
-- **S022B** 01:35.94–01:39.00 — wedding procession engraving 1840 (PD, ILN/Met)
-- **S028A** 01:59.82–02:02.65 — title page of "Letters/Journals of Queen Victoria" 1912 edition (archive.org PD)
-- **S044A** 03:10.32–03:15.16 — Garrard / 19th-c. jeweller's shop engraving (PD) + GFX "Garrard 1858"
-- **S052A** 03:48.20–03:52.92 — Victoria in widowhood with necklace, photo 1880s–90s (PD)
-- **S054A** 03:57.76–04:01.80 — same Winterhalter, close crop on earrings/necklace
-- **S061A** 04:27.86–04:30.28 — Victoria portrait (PD) dim → transition
-- **S067A** 04:51.44–04:56.08 — Dagmar Necklace — ILN 1863 engraving or Danish archive drawing (PD); fallback AI diamond-and-pearl necklace wi
-- **S068A** 04:56.08–05:00.94 — Dagmar Cross original (National Museum of Denmark, check CC licence)
-- **S069B** 05:03.95–05:06.96 — Queen Dagmar medieval depiction (PD)
-- **S070A** 05:06.96–05:10.40 — Frederik VII portrait alt crop
-- **S072A** 05:15.02–05:19.08 — King Canute medieval manuscript illustration (PD, BL/Commons)
-- **S075A** 05:29.30–05:32.46 — Fildes portrait close crop on jewels at bodice
-- **S077A** 05:40.34–05:45.42 — 1968 book cover? (copyrighted — DON'T) → GFX: card "Young, 1968 — book on the Queen's jewelry" with neutral bo
-- **S082B** 06:08.83–06:12.36 — St Petersburg 1880s view (PD)
-- **S084A** 06:17.50–06:22.14 — Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX "25 years"
-- **S085A** 06:22.14–06:25.42 — group of Victorian society ladies in court dress, photo 1880s (PD)
-- **S087A** 06:33.00–06:38.20 — Garrard shop / 1880s jeweller (PD) + GFX "£4,400 · 61 bars"
-- **S088A** 06:38.20–06:42.06 — Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC, PD)
-- **S103A** 07:49.46–07:54.18 — St Petersburg 1870s view / wedding 1874 (PD)
-- **S105A** 07:57.56–08:01.40 — **[JEWEL]** Vladimir tiara — LAC 1959 portrait of Elizabeth II (PD-Canada-Crown, verify)
-- **S112A** 08:27.70–08:32.32 — archive.org diary page crop with letter passage
-- **S113A** 08:32.32–08:34.85 — Petrograd 1917 railway station photo (PD)
-- **S115A** 08:40.68–08:44.02 — diary closed / page blank margin crop; GFX "silent"
-- **S121A** 09:06.70–09:09.86 — **[JEWEL]** rights-clear photo of Elizabeth II in Vladimir with emeralds (US gov / Dutch NA candidates, verify
-- **S121B** 09:09.86–09:13.02 — **[JEWEL]** with pearls (LAC 1959)
-- **S127B** 09:34.91–09:37.22 — five first-wearer portraits side by side
-- **S133A** 09:59.84–10:04.50 — Garrard / jeweller (PD) + GFX "Lover's Knot"
-- **S143B** 10:44.89–10:48.44 — **[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / gov PD, verify)
-- **S153B** 11:28.55–11:31.34 — Queen Mary 1910 photo (PD)
-- **S155A** 11:37.62–11:40.16 — Frankfurt 19th-c. view (PD)
-- **S169A** 12:48.18–12:52.58 — Queen Elizabeth (consort) 1940s photo (PD gov/archive, verify) + GFX "1946"
-- **S179A** 13:32.02–13:37.14 — Asscher cleaving the Cullinan 1908 photo (PD)
-- **S180A** 13:37.14–13:39.21 — Asscher workshop 1908 photo (PD)
-- **S186A** 14:03.96–14:06.46 — Queen Mary wearing the Cullinan III&IV brooch (PD photo, verify)
-- **S187A** 14:06.46–14:12.72 — Queen Mary in Delhi Durbar tiara with Cullinan (PD)
-- **S193A** 14:34.94–14:39.12 — Carolus-Duran portrait of Mrs Greville (National Trust, PD)
-- **S210A** 15:54.44–15:59.14 — Queen Elizabeth consort portrait (PD gov)
-- **S213A** 16:09.84–16:13.58 — Queen Mother later photo rights-clear (gov/CC, verify)
-- **S216A** 16:20.56–16:25.94 — **[JEWEL]** 2011 Turkey state banquet photo with Greville earrings + Coronation Necklace (rights-clear only, f
-- **S235A** 17:51.34–17:53.67 — Queen Mother in later years rights-clear
-- **S246A** 18:40.90–18:44.20 — **[JEWEL]** Queen Mary in Fringe tiara (PD) — reveal
-- **S247A** 18:44.20–18:47.82 — **[JEWEL]** 1947 wedding photo (Nationaal Archief CC0) full
-- **S248B** 18:50.64–18:53.46 — **[JEWEL]** 1947 crop
-- **S249B** 18:56.86–19:00.26 — Elizabeth II later photo rights-clear
-- **S255B** 19:25.86–19:29.48 — five first-wearer portraits fade
-- **S256A** 19:29.48–19:33.38 — **[JEWEL]** 1947 wedding image soft focus
+- **S058A/main** File:Elizabeth II waves from the palace balcony after t — Basis: Flickr Commons 'No known copyright restrictions' statement by National Media Museum (photographer Paul Thompson, 1953); NOT an explicit public-domain declaration - Max to accept or reject. JEWEL: check visually what she wears on the balcony. Not the Beaton portrait. | JEWEL VERIFY: licence status 'No restrictions' - check
+- **S191A/alt1** File:Queen Elizabeth II with her British Prime Minister — IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; OGL v3 - licence not in allowed list: VERIFY licence not auto-classified: OGL 3 [1800x1323]
+- **S068A/main** Queen Dagmar's Cross, facsimile in gold and colors of t — CHECKED VISUALLY: plate showing both sides of the Dagmar Cross (facsimile in gold and colours, 1863). Fits 'a cross buried with Dagmar'. Rights: book published London 1863 (PD by age) but archive.org has no copyright-status flag; Commons also tags it public domain.
 
-## VERIFY rows
+Other files carry `VERIFY RIGHTS` / `JEWEL VERIFY` in `verify_note` even when status is a verified one; search the CSV for those words.
 
-- **S058A/main** File:Elizabeth II waves from the palace balcony after the Co — Basis: Flickr Commons 'No known copyright restrictions' statement by National Media Museum (photographer Paul Thompson, 1953); NOT an explicit public-domain declaration - Max to accept or reject. JEWEL: check visually what she wears on the balcony. Not the Beaton portrait. | JEWEL VERIFY: licence st
-- **S191A/alt1** File:Queen Elizabeth II with her British Prime Ministers, Di — IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; OGL v3 - licence not in allowed list: VERIFY licence not auto-classified: OGL 3 [1800x1323]
+## 3. [JEWEL] shots not visually checked
 
-## [JEWEL] shots not yet visually checked
+I could only look at pictures that were downloaded. For Commons images (not yet downloaded) the jewel must be checked after `fetch_pending.py`.
 
-- **S001A** — **[JEWEL]** Queen Elizabeth II in a tiara and jewels, any rights-clear photo 1950s–2010s (NOT Fringe
-- **S005A** — **[JEWEL]** Imperial State Crown / Crown regalia PD image (Tower of London regalia engraving or PD p
-- **S017A** — **[JEWEL]** Albert's sapphire brooch — rights-clear photo of Elizabeth II wearing it (Commons "Eliza
-- **S031A** — **[JEWEL]** Elizabeth II wearing the sapphire brooch (same source as beat 17, different crop)
-- **S048A** — **[JEWEL]** Coronation Necklace pendant — Elizabeth II wearing it (Commons "Queen_Elizabeth_II_1963"
-- **S058A** — **[JEWEL]** Elizabeth II 1953 coronation-day image that is rights-clear (NOT Beaton portrait): newsr
-- **S089A** — **[JEWEL]** Kokoshnik tiara — Elizabeth II wearing it (Commons 1957 candidate, verify; US gov White 
+- **S001A** — **[JEWEL]** Queen Elizabeth II in a tiara and jewels, any rights-clear photo 1950s–2010s (
+- **S005A** — **[JEWEL]** Imperial State Crown / Crown regalia PD image (Tower of London regalia engravi
+- **S017A** — **[JEWEL]** Albert's sapphire brooch — rights-clear photo of Elizabeth II wearing it (Comm
+- **S031A** — **[JEWEL]** Elizabeth II wearing the sapphire brooch (same source as beat 17, different cr
+- **S048A** — **[JEWEL]** Coronation Necklace pendant — Elizabeth II wearing it (Commons "Queen_Elizabet
+- **S058A** — **[JEWEL]** Elizabeth II 1953 coronation-day image that is rights-clear (NOT Beaton portra
+- **S089A** — **[JEWEL]** Kokoshnik tiara — Elizabeth II wearing it (Commons 1957 candidate, verify; US 
+- **S105A** — **[JEWEL]** Vladimir tiara — LAC 1959 portrait of Elizabeth II (PD-Canada-Crown, verify)
 - **S119A** — **[JEWEL]** LAC 1959 tour portrait (PD) full frame
-- **S142A** — **[JEWEL]** Diana wearing Lover's Knot — US gov PD photo (White House/DoD 1985 visit; verify)
-- **S164A** — **[JEWEL]** Delhi Durbar necklace image — Queen Mary 1911–12 photo crop (PD) ; GFX "8.8 ct marquise"
-- **S191A** — **[JEWEL]** Elizabeth II 2012 Diamond Jubilee with brooch — rights-clear (Commons CC/gov, verify)
+- **S121B** — **[JEWEL]** with pearls (LAC 1959)
+- **S142A** — **[JEWEL]** Diana wearing Lover's Knot — US gov PD photo (White House/DoD 1985 visit; veri
+- **S164A** — **[JEWEL]** Delhi Durbar necklace image — Queen Mary 1911–12 photo crop (PD) ; GFX "8.8 ct
+- **S191A** — **[JEWEL]** Elizabeth II 2012 Diamond Jubilee with brooch — rights-clear (Commons CC/gov, 
 - **S222A** — **[JEWEL]** Queen Mary wearing the Fringe tiara (PD photo, verify)
 - **S229A** — **[JEWEL]** 1947 wedding photo crop on tiara (Nationaal Archief CC0 / PD gov newsreel)
 - **S250A** — **[JEWEL]** 1947 wedding photo slow push
 
-## Notes on decisions
+## 4. Shots to cut as crops / composites (from files already in the manifest)
 
-- **S003A/alt1**: Checked visually: tiara has floral/fleur spikes - NOT a Kokoshnik, NOT Lover's Knot, NOT Fringe; do not use for S096A/S137A/S222A. Generic Queen Mary in tiara + Garter star. | No known restrictions on publication. For more information, see George Grantham Bain
+- **S054A** — S053A main (Winterhalter 1859) - crop on earrings/necklace. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S070A** — S066A main (Frederik VII, Schiott) - different crop. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S075A** — S074A main / S075B main (Fildes 1905) - crop on jewels at the bodice. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S127B** — composite of five first-wearer portraits already in the manifest: Victoria (S015A/S061A), Alexandra (S065A), Maria Pavlovna (S101A), Augusta (S122A), Mary (S003A). Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S193A** — S002A main (Carolus-Duran, Greville) - same painting, different crop. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S247A** — S228A main (Nationaal Archief 1947, 902-4695) - full frame; JEWEL: check tiara visible. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S248B** — S228A / S229A (Nationaal Archief 1947) - crop on the tiara. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S255B** — same five-portrait composite as S127B, faded. Cut after the source file is downloaded; different crop for each shot per brief rule.
+- **S256A** — S229A main (Nationaal Archief 1947, 902-4694 crop) - soft focus. Cut after the source file is downloaded; different crop for each shot per brief rule.
+
+## 5. NOT FOUND (with leads)
+
+- **S020A** 01:25.48–01:28.18 — need: Queen Victoria's journal page facsimile (PD; Commons/archive.org) — **why / lead:** No facsimile of Victoria's 10 Feb 1840 journal page found with clear rights. Lead: archive.org 'girlhoodofqueenv01victuoft' (1912, NOT_IN_COPYRIGHT) - printed text pages of the diaries; RCT facsimile not allowed.
+- **S021A** 01:28.18–01:30.53 — need: Victoria writing / Victoria at desk engraving (PD) — **why / lead:** No clear-rights 'Victoria writing' image found. Lead: Commons category 'Queen Victoria' paintings (e.g. Victoria at desk by Sir George Hayter / Tuxen) - search Commons 'Queen Victoria writing'.
+- **S021B** 01:30.53–01:32.88 — need: journal page close-up — **why / lead:** Close-up of a journal page: use S028A/S112A style page scans from archive.org ('girlhoodofqueenv01victuoft' pages with diary text) - not yet cut.
+- **S022B** 01:35.94–01:39.00 — need: wedding procession engraving 1840 (PD, ILN/Met) — **why / lead:** Lead: archive.org 'A complete narrative of the celebration of the nuptials of Her Most Gracious Majesty Queen Victoria' (PD, 1840) - procession plates; also ILN 1840 on archive.org. Not downloaded.
+- **S044A** 03:10.32–03:15.16 — need: Garrard / 19th-c. jeweller's shop engraving (PD) + GFX "Garrard 1858" — **why / lead:** No PD Garrard shop image found. Lead: Commons category 'Garrard & Co'; archive.org Victorian guidebooks to London (Regent St / Haymarket).
+- **S052A** 03:48.20–03:52.92 — need: Victoria in widowhood with necklace, photo 1880s–90s (PD) — **why / lead:** No clear-rights photo of Victoria in widowhood wearing the necklace found. Lead: Commons 'Queen Victoria' 1880s-90s photographs (Bassano/Downey/Hughes & Mullins) - check each file page.
+- **S067A** 04:51.44–04:56.08 — need: Dagmar Necklace — ILN 1863 engraving or Danish archive drawing (PD); f — **why / lead:** No ILN 1863 engraving of the Dagmar necklace found. Lead: archive.org Illustrated London News vol. 42 (1863) and Met plate S065B (parure of the Prince of Wales - NOT Dagmar).
+- **S077A** 05:40.34–05:45.42 — need: 1968 book cover? (copyrighted — DON'T) → GFX: card "Young, 1968 — book — **why / lead:** By brief: GFX card only (book cover is copyrighted) - not a search shot.
+- **S084A** 06:17.50–06:22.14 — need: Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX "25  — **why / lead:** No clear 1888 silver wedding image. Lead: Commons 'Queen Alexandra' 1888 prints (BM). S009A already uses BM 1902,1011.10420.
+- **S085A** 06:22.14–06:25.42 — need: group of Victorian society ladies in court dress, photo 1880s (PD) — **why / lead:** Lead: Judge magazine 2 Jul 1887 (Commons, PD) - Victorian caricature, not a court-dress photo. No photo with clear rights found.
+- **S087A** 06:33.00–06:38.20 — need: Garrard shop / 1880s jeweller (PD) + GFX "£4,400 · 61 bars" — **why / lead:** Same as S044A (Garrard shop 1880s) - NOT FOUND; GFX card suggested in the brief.
+- **S088A** 06:38.20–06:42.06 — need: Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC — **why / lead:** LOC Prokudin-Gorskii search returned Armenian/Georgian/Bashkir women, none in a Russian kokoshnik. Lead: loc.gov/collections/prokudin-gorskii - browse 'peasant girls' items manually.
+- **S103A** 07:49.46–07:54.18 — need: St Petersburg 1870s view / wedding 1874 (PD) — **why / lead:** No wedding-1874 / St Petersburg 1870s image beyond S082B. Lead: Commons category 'Saint Petersburg in the 1870s'.
+- **S113A** 08:32.32–08:34.85 — need: Petrograd 1917 railway station photo (PD) — **why / lead:** No Petrograd railway station photo found. Lead: LOC Bain collection 'Petrograd' 1917; Commons 'Nikolaevsky station 1917'.
+- **S121A** 09:06.70–09:09.86 — need: **[JEWEL]** rights-clear photo of Elizabeth II in Vladimir with emeral — **why / lead:** JEWEL: no rights-clear photo of Elizabeth II in the Vladimir tiara with emeralds found. Lead: Nationaal Archief 1958 state-visit photos (S189A candidates 909-4441/4460) - check whether the tiara is the Vladimir; LAC 1959 portrait is the version with pearls.
+- **S133A** 09:59.84–10:04.50 — need: Garrard / jeweller (PD) + GFX "Lover's Knot" — **why / lead:** Same as S044A (Garrard) - NOT FOUND; GFX 'Lover's Knot' suggested.
+- **S143B** 10:44.89–10:48.44 — need: **[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / — **why / lead:** JEWEL: no rights-clear photo of Catherine in the Lover's Knot found. Lead: Commons 'Catherine, Princess of Wales' diplomatic reception 2015+ (tiara worn 2015-2019); only CC licences count.
+- **S153B** 11:28.55–11:31.34 — need: Queen Mary 1910 photo (PD) — **why / lead:** No Queen Mary 1910 photo found. Lead: Commons 'Duchess of York, 1898' (No restrictions) shows Mary of Teck, but 12 years early.
+- **S169A** 12:48.18–12:52.58 — need: Queen Elizabeth (consort) 1940s photo (PD gov/archive, verify) + GFX " — **why / lead:** No rights-clear 1940s photo of Queen Elizabeth (consort). Lead: UK National Archives INF3-78 (S209B), Universal Newsreel 1939 tour (VIDEO_LEADS.md).
+- **S179A** 13:32.02–13:37.14 — need: Asscher cleaving the Cullinan 1908 photo (PD) — **why / lead:** No rights-clear photo of Asscher cleaving the Cullinan 1908 found. Lead: Commons category 'Cullinan Diamond'; Asscher Museum / Rijksmuseum (check CC0) .
+- **S180A** 13:37.14–13:39.21 — need: Asscher workshop 1908 photo (PD) — **why / lead:** Same as S179A - Asscher workshop 1908 photo not found.
+- **S186A** 14:03.96–14:06.46 — need: Queen Mary wearing the Cullinan III&IV brooch (PD photo, verify) — **why / lead:** JEWEL: no PD photo of Queen Mary wearing the Cullinan III/IV brooch found. Lead: S182A candidates (LOC 2014716428, Autochrome 1914) - check visually after download.
+- **S187A** 14:06.46–14:12.72 — need: Queen Mary in Delhi Durbar tiara with Cullinan (PD) — **why / lead:** JEWEL: no photo of Mary in the Delhi Durbar tiara with Cullinan found. Lead: S168A candidate; Commons category 'Delhi Durbar tiara'.
+- **S210A** 15:54.44–15:59.14 — need: Queen Elizabeth consort portrait (PD gov) — **why / lead:** No rights-clear portrait of Queen Elizabeth (consort) 1940s beyond S209B. Lead: Commons 'Queen Elizabeth The Queen Mother' US Gov / Canadian archives 1939.
+- **S213A** 16:09.84–16:13.58 — need: Queen Mother later photo rights-clear (gov/CC, verify) — **why / lead:** No rights-clear later photo of the Queen Mother found. Lead: Commons 'Queen Elizabeth The Queen Mother' 1980s-90s (US gov: DoD/NARA) - not located.
+- **S216A** 16:20.56–16:25.94 — need: **[JEWEL]** 2011 Turkey state banquet photo with Greville earrings + C — **why / lead:** JEWEL: 2011 Turkey state banquet photo not found with clear rights (the only banquet photo found is 1954). Lead: Turkish Presidency press photos (check licence) / Royal Collection (not allowed).
+- **S235A** 17:51.34–17:53.67 — need: Queen Mother in later years rights-clear — **why / lead:** Queen Mother in later years: only 1958 Queensland State Archives photos (S234A) found. Lead: Commons 'Queen Elizabeth The Queen Mother' 1990s-2002.
+- **S246A** 18:40.90–18:44.20 — need: **[JEWEL]** Queen Mary in Fringe tiara (PD) — reveal — **why / lead:** JEWEL: no PD photo of Queen Mary in the Fringe tiara confirmed. Lead: S153B/S222A candidate 'Queen Mary of Teck (8543179876)' CC BY 2.0 - check which tiara; Commons 'Queen Mary' portraits 1930s.
+
+## 6. Decisions I made that you may want to know
+
+- **S003A/alt1**: Checked visually: tiara has floral/fleur spikes - NOT a Kokoshnik, NOT Lover's Knot, NOT Fringe; do not use for S096A/S137A/S222A. Generic Queen Mary in tiara + Garter star. | No known restrictions on publication. For more information, see George Grantham Bain Collection - Ri
 - **S046A/main**: Checked visually: gold Lesser George badge with Garter motto, 18th c. Generic Order of the Garter illustration, NOT one of Victoria's own badges. Acceptable for "Garter badges" beat only as generic. | proof = Met API record
-- **S065B/main**: Checked visually: plate "Parure of Diamonds and Pearls - the gift of H.R.H. The Prince of Wales" (tiara, necklace, brooch, earrings). A wedding present, but NOT the Dagmar Necklace (that was from Frederik VII) - do not use on S067A/S068A. Does not show the wed
+- **S065B/main**: Checked visually: plate "Parure of Diamonds and Pearls - the gift of H.R.H. The Prince of Wales" (tiara, necklace, brooch, earrings). A wedding present, but NOT the Dagmar Necklace (that was from Frederik VII) - do not use on S067A/S068A. Does not show the wedding itself (S064A still open). | proof 
+- **S149A/alt2**: in 00:05:20 / out 00:05:28 of source. CHECKED VISUALLY: Kinemacolor 1912 procession with elephants (not the royal couple, not an amphitheatre view). WARNING: burned-in 'Cineteca Bologna' logo top-left from 3:40 onward in this source - crop it out or choose another source. Film itself: Public Domain 
