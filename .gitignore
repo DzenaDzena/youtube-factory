@@ -9,3 +9,4 @@ FS-002_visuals/*
 !FS-002_visuals/tools
 !FS-002_visuals/SHOTS_INDEX.csv
 __pycache__/
+!FS-002_visuals/TIMELINE.json

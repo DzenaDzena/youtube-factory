@@ -1,0 +1,3801 @@
+{
+ "fps": 30,
+ "assetsFolder": "FS-002_visuals",
+ "shots": [
+  {
+   "shot": "S001A",
+   "startSec": 0.0,
+   "endSec": 2.37,
+   "durationSec": 2.37,
+   "startFrame": 0,
+   "durationFrames": 71,
+   "narrator": "Some of the finest jewels Queen Elizabeth the Second ever wore did not come from",
+   "need": "**[JEWEL]** Queen Elizabeth II in a tiara and jewels, any rights-clear photo 1950s–2010s (NOT Fringe Tiara, NOT 1953 coronation portrait)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S001A_main__state-dinner-bush-1991-nara.jpg",
+    "alt1": "S001A_alt1__state-dinner-bush-1991-alt.jpg",
+    "alt2": "S001A_alt2__queen-wearing-sapphires.tif"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: which tiara/jewels; not Fringe, not Beaton [2922x"
+  },
+  {
+   "shot": "S002A",
+   "startSec": 4.74,
+   "endSec": 7.29,
+   "durationSec": 2.55,
+   "startFrame": 142,
+   "durationFrames": 76,
+   "narrator": "kings. One pair of earrings had belonged to a brewer's daughter.",
+   "need": "Margaret Greville portrait (Carolus-Duran 1891, National Trust, PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S002A_main__greville-carolus-duran-1891.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; low res 577x1200; look for bigger [577x1200]"
+  },
+  {
+   "shot": "S002B",
+   "startSec": 7.29,
+   "endSec": 9.84,
+   "durationSec": 2.55,
+   "startFrame": 219,
+   "durationFrames": 76,
+   "narrator": "kings. One pair of earrings had belonged to a brewer's daughter.",
+   "need": "William McEwan portrait or McEwan's brewery / 19th-c. Edinburgh brewery engraving",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S002B_main__william-mcewan-vanity-fair-1902.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; low res 317x512 [317x512]"
+  },
+  {
+   "shot": "S003A",
+   "startSec": 9.84,
+   "endSec": 13.84,
+   "durationSec": 4.0,
+   "startFrame": 295,
+   "durationFrames": 120,
+   "narrator": "A tiara was sold to her grandmother by a Russian grand duchess's daughter,",
+   "need": "Queen Mary portrait in a tiara (LOC Bain / PD, c.1910s–1920s)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S003A_main__queen-mary-bain-1920s.tif",
+    "alt1": "S003A_alt1__queen-mary-bain-1915-20.tif",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Library of Congress, Prints & Photographs Division (courtesy)",
+    "alt1": "Library of Congress, Prints & Photographs Division (courtesy)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Checked visually: diamond tiara, which tiara unidentified; fine for S003A (any tiara), not for named-tiara shots. | No known restrictions on publication. For mo"
+  },
+  {
+   "shot": "S004A",
+   "startSec": 13.84,
+   "endSec": 17.04,
+   "durationSec": 3.2,
+   "startFrame": 415,
+   "durationFrames": 96,
+   "narrator": "four years after the revolution.",
+   "need": "Russian Revolution 1917 street photo, Petrograd (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S004A_main__petrograd-nevsky-riot-1917.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": " [1828x1188]"
+  },
+  {
+   "shot": "S005A",
+   "startSec": 17.04,
+   "endSec": 19.75,
+   "durationSec": 2.71,
+   "startFrame": 511,
+   "durationFrames": 81,
+   "narrator": "Only two came with the Crown. The rest came the way jewels come in any family:",
+   "need": "**[JEWEL]** Imperial State Crown / Crown regalia PD image (Tower of London regalia engraving or PD photo)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S005A_main__imperial-state-crown.jpg",
+    "alt1": "S005A_alt1__imperial-state-crown-alt.jpg",
+    "alt2": "S005A_alt2__crown-side-view.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt2": "(removed by user request) / CC BY-SA 3.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": "Crown regalia photo; check visually [1100x1038]"
+  },
+  {
+   "shot": "S007A",
+   "startSec": 25.54,
+   "endSec": 29.24,
+   "durationSec": 3.7,
+   "startFrame": 766,
+   "durationFrames": 111,
+   "narrator": "A brooch given the day before a wedding, 1840.",
+   "need": "Hayter \"Marriage of Queen Victoria\" 1840 (Met CC0 engraving) + GFX date 1840",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S007A_main__wagstaff-hayter-lithograph-1840.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1078x854]"
+  },
+  {
+   "shot": "S009A",
+   "startSec": 34.54,
+   "endSec": 37.29,
+   "durationSec": 2.75,
+   "startFrame": 1036,
+   "durationFrames": 82,
+   "narrator": "1947. A gift from three hundred and sixty-five women,",
+   "need": "Alexandra, Princess of Wales, photo c.1888 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S009A_main__alexandra-prince-princess-wales-1888.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; British Museum item; check PD basis in proof [1154x1600]"
+  },
+  {
+   "shot": "S015A",
+   "startSec": 64.28,
+   "endSec": 66.95,
+   "durationSec": 2.67,
+   "startFrame": 1928,
+   "durationFrames": 80,
+   "narrator": "The first woman to wear it was Queen Victoria, and she wore it to her own wedding.",
+   "need": "young Queen Victoria portrait c.1840 (PD, e.g. Winterhalter/Partridge)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S015A_main__victoria-sully-1838-fulllength.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Sully 1838 full-length; young Victoria | proof = Met Open Access API record (isPublicDomain=true); metmuseum.org page not reachable from this network"
+  },
+  {
+   "shot": "S015B",
+   "startSec": 66.95,
+   "endSec": 69.62,
+   "durationSec": 2.67,
+   "startFrame": 2008,
+   "durationFrames": 80,
+   "narrator": "The first woman to wear it was Queen Victoria, and she wore it to her own wedding.",
+   "need": "Hayter wedding painting detail",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S015B_main__hayter-marriage-victoria-detail.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; PD painting; photo credited to Royal Collection on Commons, fil"
+  },
+  {
+   "shot": "S017A",
+   "startSec": 74.02,
+   "endSec": 78.6,
+   "durationSec": 4.58,
+   "startFrame": 2221,
+   "durationFrames": 137,
+   "narrator": "Albert gave her this brooch: a sapphire set with diamonds.",
+   "need": "**[JEWEL]** Albert's sapphire brooch — rights-clear photo of Elizabeth II wearing it (Commons \"Elizabeth_II_2012\" CC BY 2.0 candidate, verif",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S017A_main__elizabeth-sapphire-brooch-fco-2012.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Foreign and Commonwealth Office / CC BY 2.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY brooch visually (Commons category on sibling file "
+  },
+  {
+   "shot": "S019A",
+   "startSec": 83.06,
+   "endSec": 85.48,
+   "durationSec": 2.42,
+   "startFrame": 2492,
+   "durationFrames": 73,
+   "narrator": "and worn on the wedding day itself.",
+   "need": "Hayter \"Marriage of Queen Victoria\" detail of the bride (Met CC0)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S019A_main__hayter-marriage-victoria-met-lithograph.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Wagstaff 1844 lithograph after Hayter; bride detail | proof = Met Open Access API record (isPublicDomain=true); metmuseum.org page not reachable from this netwo"
+  },
+  {
+   "shot": "S020A",
+   "startSec": 85.48,
+   "endSec": 88.18,
+   "durationSec": 2.7,
+   "startFrame": 2564,
+   "durationFrames": 81,
+   "narrator": "We don't have to guess whether she wore it.",
+   "need": "Queen Victoria's journal page facsimile (PD; Commons/archive.org)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S020A_main__girlhood-vol2-wedding-day-p318.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "CHECKED VISUALLY: printed p.318 'THE WEDDING DAY' of The Girlhood of Queen Victoria vol. II (John Murray 1912): entry for Monday 10 Feb 1840 reads 'I wore my Tu"
+  },
+  {
+   "shot": "S021A",
+   "startSec": 88.18,
+   "endSec": 90.53,
+   "durationSec": 2.35,
+   "startFrame": 2645,
+   "durationFrames": 70,
+   "narrator": "She wrote it down. In her journal for February tenth, describing what she wore",
+   "need": "Victoria writing / Victoria at desk engraving (PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S021B",
+   "startSec": 90.53,
+   "endSec": 92.88,
+   "durationSec": 2.35,
+   "startFrame": 2716,
+   "durationFrames": 70,
+   "narrator": "She wrote it down. In her journal for February tenth, describing what she wore",
+   "need": "journal page close-up",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S022B",
+   "startSec": 95.94,
+   "endSec": 99.0,
+   "durationSec": 3.06,
+   "startFrame": 2878,
+   "durationFrames": 92,
+   "narrator": "to marry him, Victoria noted, \"Albert's beautiful sapphire brooch.\"",
+   "need": "wedding procession engraving 1840 (PD, ILN/Met)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S024A",
+   "startSec": 103.7,
+   "endSec": 107.78,
+   "durationSec": 4.08,
+   "startFrame": 3111,
+   "durationFrames": 122,
+   "narrator": "it stayed close to her. In the Royal Collection's words,",
+   "need": "Queen Victoria portrait 1840s with brooch at bodice (PD painting)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S024A_main__winterhalter-victoria-1843.jpg",
+    "alt1": "S024A_alt1__royal-family-1846.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY: brooch at bodice not confirmed; PD painting [1231x1500]"
+  },
+  {
+   "shot": "S025A",
+   "startSec": 107.78,
+   "endSec": 111.1,
+   "durationSec": 3.32,
+   "startFrame": 3233,
+   "durationFrames": 100,
+   "narrator": "it remained a favorite piece of jewelry.",
+   "need": "Victoria and Albert together, 1840s–50s photo/painting (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S025A_main__victoria-albert-1854.jpg",
+    "alt1": "S025A_alt1__victoria-albert-photo-alt.jpg",
+    "alt2": "S025A_alt2__victoria-albert-photo-2.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1145x1500]"
+  },
+  {
+   "shot": "S026A",
+   "startSec": 111.1,
+   "endSec": 113.48,
+   "durationSec": 2.38,
+   "startFrame": 3333,
+   "durationFrames": 71,
+   "narrator": "Albert died in 1861. When Victoria settled what would happen to",
+   "need": "Albert death 1861 — mourning engraving / Blue Room (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S026A_main__albert-remembrance-print-1862.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Checked visually: allegorical memorial print to Albert (1862), Crystal Palace background; fits Albert death 1861 / mourning. | proof = Met API record"
+  },
+  {
+   "shot": "S026B",
+   "startSec": 113.48,
+   "endSec": 115.86,
+   "durationSec": 2.38,
+   "startFrame": 3404,
+   "durationFrames": 71,
+   "narrator": "Albert died in 1861. When Victoria settled what would happen to",
+   "need": "Victoria in widow's weeds photo 1860s (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S026B_main__victoria-widow-1860s-bm.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY: check visually it shows mourning [2003x2500]"
+  },
+  {
+   "shot": "S027A",
+   "startSec": 115.86,
+   "endSec": 119.82,
+   "durationSec": 3.96,
+   "startFrame": 3476,
+   "durationFrames": 119,
+   "narrator": "her jewels, she did not leave this brooch to a person.",
+   "need": "older Queen Victoria photo 1880s–90s (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S027A_main__victoria-indian-servant-1893.jpg",
+    "alt1": "S027A_alt1__jubilee-garden-party-1887.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; older Victoria 1893 [762x559]"
+  },
+  {
+   "shot": "S028A",
+   "startSec": 119.82,
+   "endSec": 122.65,
+   "durationSec": 2.83,
+   "startFrame": 3595,
+   "durationFrames": 85,
+   "narrator": "A note in the 1912 edition of her journals says she left it to the Crown.",
+   "need": "title page of \"Letters/Journals of Queen Victoria\" 1912 edition (archive.org PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S028A_main__girlhood-queen-victoria-1912-title.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "CHECKED VISUALLY: title page 'The Girlhood of Queen Victoria ... diaries 1832-1840, ed. Viscount Esher, John Murray 1912', vol. I"
+  },
+  {
+   "shot": "S029A",
+   "startSec": 125.48,
+   "endSec": 128.94,
+   "durationSec": 3.46,
+   "startFrame": 3764,
+   "durationFrames": 104,
+   "narrator": "That meant it would belong to whoever was sovereign.",
+   "need": "Imperial State Crown / regalia PD image",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S029A_main__imperial-state-crown-victoria-1904.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Victoria's crown 1904 publication [1805x2257]"
+  },
+  {
+   "shot": "S030A",
+   "startSec": 128.94,
+   "endSec": 132.78,
+   "durationSec": 3.84,
+   "startFrame": 3868,
+   "durationFrames": 115,
+   "narrator": "In February 1952, that became Elizabeth.",
+   "need": "Elizabeth II accession 1952 — rights-clear photo or newspaper front page Feb 1952 (PD check) ; GFX \"February 1952\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S030A_main__elizabeth-ii-1952.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Dec 1952; confirm basis of PD [980x655]"
+  },
+  {
+   "shot": "S031A",
+   "startSec": 132.78,
+   "endSec": 135.66,
+   "durationSec": 2.88,
+   "startFrame": 3983,
+   "durationFrames": 86,
+   "narrator": "She inherited this brooch not from a grandmother, but with the Crown itself,",
+   "need": "**[JEWEL]** Elizabeth II wearing the sapphire brooch (same source as beat 17, different crop)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S031A_main__elizabeth-sapphire-brooch-cropped.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Foreign and Commonwealth Office / CC BY 2.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY brooch; crop of same event as S017A [1498x1872]"
+  },
+  {
+   "shot": "S033A",
+   "startSec": 142.28,
+   "endSec": 145.18,
+   "durationSec": 2.9,
+   "startFrame": 4268,
+   "durationFrames": 87,
+   "narrator": "Victoria's first jewel on this list came to her through love.",
+   "need": "Victoria & Albert portrait (PD) warm grade",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S033A_main__albert-winterhalter-1842.jpg",
+    "alt1": "S033A_alt1__victoria-1843-portrait.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Albert portrait; Victoria portrait is the alt [1103x1500]"
+  },
+  {
+   "shot": "S036A",
+   "startSec": 153.24,
+   "endSec": 158.16,
+   "durationSec": 4.92,
+   "startFrame": 4597,
+   "durationFrames": 148,
+   "narrator": "Its name suggests Victoria wore it when she was crowned in 1838.",
+   "need": "Victoria's coronation 1838 painting (Hayter coronation, PD) + GFX 1838",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S036A_main__ryall-coronation-victoria-1838.jpg",
+    "alt1": "S036A_alt1__pistrucci-coronation-medal-1838.jpg",
+    "alt2": "S036A_alt2__pistrucci-coronation-medal-1838-b.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)",
+    "alt1": "The Metropolitan Museum of Art (optional)",
+    "alt2": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Ryall 1842 print of the coronation; use with GFX 1838 | proof = Met Open Access API record (isPublicDomain=true); metmuseum.org page not reachable from this net"
+  },
+  {
+   "shot": "S038A",
+   "startSec": 161.4,
+   "endSec": 165.1,
+   "durationSec": 3.7,
+   "startFrame": 4842,
+   "durationFrames": 111,
+   "narrator": "Some of Victoria's jewels had once belonged to Queen Charlotte.",
+   "need": "Queen Charlotte portrait (Gainsborough/Ramsay, PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S038A_main__queen-charlotte-gainsborough.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Gainsborough portrait of Queen Charlotte; fits S038A. | proof = Met API record"
+  },
+  {
+   "shot": "S039A",
+   "startSec": 165.1,
+   "endSec": 167.47,
+   "durationSec": 2.37,
+   "startFrame": 4953,
+   "durationFrames": 71,
+   "narrator": "The King of Hanover claimed them as his. A commission investigated the claim,",
+   "need": "Ernest Augustus, King of Hanover portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S039A_main__ernest-augustus-hanover.jpg",
+    "alt1": "S039A_alt1__ernest-augustus-hanover-alt.png",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; portrait [1658x2000]"
+  },
+  {
+   "shot": "S041A",
+   "startSec": 174.54,
+   "endSec": 178.06,
+   "durationSec": 3.52,
+   "startFrame": 5236,
+   "durationFrames": 106,
+   "narrator": "great dismay, it ruled against her.",
+   "need": "Victoria portrait 1850s (PD), slow push",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S041A_main__victoria-bm-1863.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; dated 1863 not 1850s; British Museum print [722x1000]"
+  },
+  {
+   "shot": "S044A",
+   "startSec": 190.32,
+   "endSec": 195.16,
+   "durationSec": 4.84,
+   "startFrame": 5710,
+   "durationFrames": 145,
+   "narrator": "To replace Charlotte's necklace, Garrard made a new one in 1858,",
+   "need": "Garrard / 19th-c. jeweller's shop engraving (PD) + GFX \"Garrard 1858\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S044A_main__garrard-pilgrim-bottle-1869.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY MEANING: Garrard-made silver (Robert Garrard II, 1869); NOT a shop image - no PD Garrard shop picture found"
+  },
+  {
+   "shot": "S046A",
+   "startSec": 199.88,
+   "endSec": 204.36,
+   "durationSec": 4.48,
+   "startFrame": 5996,
+   "durationFrames": 134,
+   "narrator": "two of Victoria's Garter badges and a sword hilt.",
+   "need": "Order of the Garter badge/star 19th c. (Met/V&A CC0 if available) ; sword hilt with diamonds PD museum image",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S046A_main__garter-badge-18th-c-met.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Checked visually: gold Lesser George badge with Garter motto, 18th c. Generic Order of the Garter illustration, NOT one of Victoria's own badges. Acceptable for"
+  },
+  {
+   "shot": "S048A",
+   "startSec": 208.24,
+   "endSec": 213.66,
+   "durationSec": 5.42,
+   "startFrame": 6247,
+   "durationFrames": 163,
+   "narrator": "From the center hangs the Lahore Diamond, twenty-two point four eight carats.",
+   "need": "**[JEWEL]** Coronation Necklace pendant — Elizabeth II wearing it (Commons \"Queen_Elizabeth_II_1963\" CC BY 2.0 candidate, verify) + GFX \"Lah",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S048A_main__elizabeth-1963.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Archives New Zealand / CC BY 2.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY Coronation Necklace/Lahore pendant [2280x3153]"
+  },
+  {
+   "shot": "S049A",
+   "startSec": 213.66,
+   "endSec": 216.47,
+   "durationSec": 2.81,
+   "startFrame": 6410,
+   "durationFrames": 84,
+   "narrator": "The matching earrings were made from stones that once sat beside the Koh-i-Noor in its Indian setting.",
+   "need": "Koh-i-Noor 19th-c. engraving (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S049A_main__koh-i-noor-garrard-drawing-1851.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Garrard 1851 drawing of the Koh-i-Noor (cut state), not a 19th-c engraving of Indian setting; fits Koh-i-Noor beat generally. | proof = Met API record"
+  },
+  {
+   "shot": "S049B",
+   "startSec": 216.47,
+   "endSec": 219.28,
+   "durationSec": 2.81,
+   "startFrame": 6494,
+   "durationFrames": 84,
+   "narrator": "The matching earrings were made from stones that once sat beside the Koh-i-Noor in its Indian setting.",
+   "need": "Ranjit Singh / Lahore court painting (PD, Met/V&A CC0)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S049B_main__ranjit-singh-lahore-court.jpg",
+    "alt1": "S049B_alt1__ranjit-singh-ivory-1900.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Lahore court painting c1830 [2048x2466]"
+  },
+  {
+   "shot": "S051A",
+   "startSec": 223.84,
+   "endSec": 228.2,
+   "durationSec": 4.36,
+   "startFrame": 6715,
+   "durationFrames": 131,
+   "narrator": "Victoria was slightly under five feet tall. In her long widowhood,",
+   "need": "Victoria photo full figure 1860s–80s (PD) showing small stature",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S051A_main__victoria-mayall-1860s.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; full figure? check stature [1148x1662]"
+  },
+  {
+   "shot": "S052A",
+   "startSec": 228.2,
+   "endSec": 232.92,
+   "durationSec": 4.72,
+   "startFrame": 6846,
+   "durationFrames": 142,
+   "narrator": "this necklace was among the relatively few jewels she allowed herself to wear.",
+   "need": "Victoria in widowhood with necklace, photo 1880s–90s (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S052A_main__victoria-trade-card-1880-1900.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY: trade card print with Victoria portrait, ca.1880-1900; not a studio photograph; check necklace visible"
+  },
+  {
+   "shot": "S053A",
+   "startSec": 232.92,
+   "endSec": 237.76,
+   "durationSec": 4.84,
+   "startFrame": 6988,
+   "durationFrames": 145,
+   "narrator": "In 1859, Franz Xaver Winterhalter painted her in this necklace and",
+   "need": "Winterhalter 1859 portrait of Victoria (Parliamentary Art Collection, PD) full",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S053A_main__winterhalter-victoria-1859.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1463x2250]"
+  },
+  {
+   "shot": "S054A",
+   "startSec": 237.76,
+   "endSec": 241.8,
+   "durationSec": 4.04,
+   "startFrame": 7133,
+   "durationFrames": 121,
+   "narrator": "these earrings. The earrings end in two diamond drops,",
+   "need": "same Winterhalter, close crop on earrings/necklace",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S056A",
+   "startSec": 244.64,
+   "endSec": 247.62,
+   "durationSec": 2.98,
+   "startFrame": 7339,
+   "durationFrames": 89,
+   "narrator": "Then it found the purpose its name promises. It was worn at the coronations of nineteen oh two,",
+   "need": "coronation of Edward VII 1902 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S056A_main__coronation-edward-vii-1902.jpg",
+    "alt1": "S056A_alt1__edward-alexandra-coronation-robes.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [2250x1329]"
+  },
+  {
+   "shot": "S056B",
+   "startSec": 247.62,
+   "endSec": 250.6,
+   "durationSec": 2.98,
+   "startFrame": 7429,
+   "durationFrames": 89,
+   "narrator": "Then it found the purpose its name promises. It was worn at the coronations of nineteen oh two,",
+   "need": "Queen Alexandra coronation portrait 1902 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S056B_main__alexandra-coronation-robes-1902.jpg",
+    "alt1": "S056B_alt1__alexandra-coronation-attendants.jpg",
+    "alt2": "S056B_alt2__alexandra-coronation-facing.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [984x768]"
+  },
+  {
+   "shot": "S057A",
+   "startSec": 250.6,
+   "endSec": 253.32,
+   "durationSec": 2.72,
+   "startFrame": 7518,
+   "durationFrames": 82,
+   "narrator": "1911 and 1937. In 1953,",
+   "need": "coronation 1911 George V & Mary (PD) ; coronation 1937 photo (check rights)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S057A_main__coronation-george-v-mary-1911.jpg",
+    "alt1": "S057A_alt1__coronation-george-v-mary-1911-alt.jpg",
+    "alt2": "S057A_alt2__coronation-1937-newsreel-abbey.mp4"
+   },
+   "extraFiles": [
+    "S057A_alt3__coronation-1937-newsreel-coach.mp4"
+   ],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; 1911 [1597x2000]"
+  },
+  {
+   "shot": "S058A",
+   "startSec": 256.04,
+   "endSec": 259.98,
+   "durationSec": 3.94,
+   "startFrame": 7681,
+   "durationFrames": 118,
+   "narrator": "Elizabeth wore it at her own. By published accounts,",
+   "need": "**[JEWEL]** Elizabeth II 1953 coronation-day image that is rights-clear (NOT Beaton portrait): newsreel still/PD gov photo; fallback GFX + A",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S058A_main__elizabeth-balcony-coronation-1953.jpg",
+    "alt1": "S058A_alt1__abbey-before-coronation-1953.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "Ben Brooksbank / CC BY-SA 2.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": "Basis: Flickr Commons 'No known copyright restrictions' statement by National Media Museum (photographer Paul Thompson, 1953); NOT an explicit public-domain dec"
+  },
+  {
+   "shot": "S061A",
+   "startSec": 267.86,
+   "endSec": 270.28,
+   "durationSec": 2.42,
+   "startFrame": 8036,
+   "durationFrames": 73,
+   "narrator": "Victoria lost jewels to a ruling. The next woman on this list received hers as",
+   "need": "Victoria portrait (PD) dim → transition",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S061A_main__winterhalter-victoria-1856.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1564x2000]"
+  },
+  {
+   "shot": "S061B",
+   "startSec": 270.28,
+   "endSec": 272.7,
+   "durationSec": 2.42,
+   "startFrame": 8108,
+   "durationFrames": 73,
+   "narrator": "Victoria lost jewels to a ruling. The next woman on this list received hers as",
+   "need": "Copenhagen 1860s view (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S061B_main__copenhagen-amalienborg-1860s.jpg",
+    "alt1": "S061B_alt1__amalienborg-christian-viii.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Copenhagen 1860s-70s [1100x564]"
+  },
+  {
+   "shot": "S064A",
+   "startSec": 278.66,
+   "endSec": 283.46,
+   "durationSec": 4.8,
+   "startFrame": 8360,
+   "durationFrames": 144,
+   "narrator": "In 1863, a Danish princess named Alexandra married",
+   "need": "wedding of Albert Edward & Alexandra 1863, Frith painting / ILN engraving (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S064A_main__st-georges-chapel-wedding-1863.jpg",
+    "alt1": "S064A_alt1__wedding-albert-edward-alexandra-1863.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; wedding of 10 March 1863 [1427x939]"
+  },
+  {
+   "shot": "S065A",
+   "startSec": 283.46,
+   "endSec": 285.58,
+   "durationSec": 2.12,
+   "startFrame": 8504,
+   "durationFrames": 64,
+   "narrator": "the Prince of Wales. Among her wedding gifts was this necklace,",
+   "need": "Alexandra in wedding dress 1863 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S065A_main__alexandra-wedding-dress-1863.jpg",
+    "alt1": "S065A_alt1__alexandra-1863-princess.jpg",
+    "alt2": "S065A_alt2__alexandra-wedding-dress-2.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [2645x3556]"
+  },
+  {
+   "shot": "S065B",
+   "startSec": 285.58,
+   "endSec": 287.7,
+   "durationSec": 2.12,
+   "startFrame": 8567,
+   "durationFrames": 64,
+   "narrator": "the Prince of Wales. Among her wedding gifts was this necklace,",
+   "need": "ILN engraving of wedding presents 1863 if available",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S065B_main__wedding-gift-pearl-diamond-parure-1863.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Checked visually: plate \"Parure of Diamonds and Pearls - the gift of H.R.H. The Prince of Wales\" (tiara, necklace, brooch, earrings). A wedding present, but NOT"
+  },
+  {
+   "shot": "S066A",
+   "startSec": 287.7,
+   "endSec": 291.44,
+   "durationSec": 3.74,
+   "startFrame": 8631,
+   "durationFrames": 112,
+   "narrator": "from King Frederik the Seventh of Denmark.",
+   "need": "King Frederik VII of Denmark portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S066A_main__frederik-vii-schiott.jpg",
+    "alt1": "S066A_alt1__frederik-vii-pa00997.jpg",
+    "alt2": "S066A_alt2__frederik-vii-as-prince.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; portrait c1850 [2263x3000]"
+  },
+  {
+   "shot": "S067A",
+   "startSec": 291.44,
+   "endSec": 296.08,
+   "durationSec": 4.64,
+   "startFrame": 8743,
+   "durationFrames": 139,
+   "narrator": "It was more than diamonds and pearls. At its center hung a replica of a",
+   "need": "Dagmar Necklace — ILN 1863 engraving or Danish archive drawing (PD); fallback AI diamond-and-pearl necklace with central cross, non-distorti",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S068A",
+   "startSec": 296.08,
+   "endSec": 300.94,
+   "durationSec": 4.86,
+   "startFrame": 8882,
+   "durationFrames": 146,
+   "narrator": "famous twelfth-century enameled cross, a cross buried with Dagmar,",
+   "need": "Dagmar Cross original (National Museum of Denmark, check CC licence)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S068A_main__dagmar-cross-facsimile-1863.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "CHECKED VISUALLY: plate showing both sides of the Dagmar Cross (facsimile in gold and colours, 1863). Fits 'a cross buried with Dagmar'. Rights: book published "
+  },
+  {
+   "shot": "S069A",
+   "startSec": 300.94,
+   "endSec": 303.95,
+   "durationSec": 3.01,
+   "startFrame": 9028,
+   "durationFrames": 90,
+   "narrator": "Queen of Denmark, in twelve twelve. That is where the necklace gets its name.",
+   "need": "Ringsted church / Queen Dagmar tomb (Commons CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S069A_main__ringsted-st-bendts.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": " / CC BY-SA 3.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY: check what the image shows (royal burials at Ringsted) "
+  },
+  {
+   "shot": "S069B",
+   "startSec": 303.95,
+   "endSec": 306.96,
+   "durationSec": 3.01,
+   "startFrame": 9118,
+   "durationFrames": 90,
+   "narrator": "Queen of Denmark, in twelve twelve. That is where the necklace gets its name.",
+   "need": "Queen Dagmar medieval depiction (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S069B_main__koenigin-dagmars-tod.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Christian Reinboth / CC BY-SA 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY: what it depicts (modern photo, CC BY-SA 4.0 - credit/Sh"
+  },
+  {
+   "shot": "S070A",
+   "startSec": 306.96,
+   "endSec": 310.4,
+   "durationSec": 3.44,
+   "startFrame": 9209,
+   "durationFrames": 103,
+   "narrator": "King Frederik suggested something stranger still.",
+   "need": "Frederik VII portrait alt crop",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S072A",
+   "startSec": 315.02,
+   "endSec": 319.08,
+   "durationSec": 4.06,
+   "startFrame": 9451,
+   "durationFrames": 122,
+   "narrator": "and a scrap of silk from the grave of King Canute.",
+   "need": "King Canute medieval manuscript illustration (PD, BL/Commons)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S072A_main__canute-aelfgifu-liber-vitae.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "low res 296x414; find uncropped Liber Vitae image [296x414]"
+  },
+  {
+   "shot": "S073A",
+   "startSec": 319.08,
+   "endSec": 321.89,
+   "durationSec": 2.81,
+   "startFrame": 9572,
+   "durationFrames": 84,
+   "narrator": "So the Danish king's wedding gift held a piece of Denmark's medieval past.",
+   "need": "medieval Danish church interior (Commons CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S073A_main__ringsted-church-interior-1829.jpg",
+    "alt1": "S073A_alt1__ringsted-fresco-berengaria.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; 1829 painting [5056x6092]"
+  },
+  {
+   "shot": "S074A",
+   "startSec": 324.7,
+   "endSec": 329.3,
+   "durationSec": 4.6,
+   "startFrame": 9741,
+   "durationFrames": 138,
+   "narrator": "Decades later, Luke Fildes painted Alexandra's coronation portrait.",
+   "need": "Luke Fildes portrait of Queen Alexandra 1905 (Government Art Collection, PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S074A_main__fildes-alexandra-1905.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; PD-Art photo of painting; check proof [1920x3000]"
+  },
+  {
+   "shot": "S075A",
+   "startSec": 329.3,
+   "endSec": 332.46,
+   "durationSec": 3.16,
+   "startFrame": 9879,
+   "durationFrames": 95,
+   "narrator": "Among the jewels massed on her dress, slightly adapted, is the Dagmar Necklace.",
+   "need": "Fildes portrait close crop on jewels at bodice",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S075B",
+   "startSec": 332.46,
+   "endSec": 335.62,
+   "durationSec": 3.16,
+   "startFrame": 9974,
+   "durationFrames": 95,
+   "narrator": "Among the jewels massed on her dress, slightly adapted, is the Dagmar Necklace.",
+   "need": "Fildes portrait full",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S075B_main__fildes-alexandra-full.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; different file of same painting; use crop for S075A [2400x3020]"
+  },
+  {
+   "shot": "S077A",
+   "startSec": 340.34,
+   "endSec": 345.42,
+   "durationSec": 5.08,
+   "startFrame": 10210,
+   "durationFrames": 152,
+   "narrator": "spell out the route. A 1968 book on the Queen's jewelry says",
+   "need": "1968 book cover? (copyrighted — DON'T) → GFX: card \"Young, 1968 — book on the Queen's jewelry\" with neutral book icon",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S078A",
+   "startSec": 345.42,
+   "endSec": 350.22,
+   "durationSec": 4.8,
+   "startFrame": 10363,
+   "durationFrames": 144,
+   "narrator": "Elizabeth inherited it from her grandmother, Queen Mary, which would place it with her in",
+   "need": "Queen Mary portrait (PD) + GFX \"1953\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S078A_main__queen-mary-bassano-1930.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [496x745]"
+  },
+  {
+   "shot": "S081A",
+   "startSec": 360.14,
+   "endSec": 365.3,
+   "durationSec": 5.16,
+   "startFrame": 10804,
+   "durationFrames": 155,
+   "narrator": "Alexandra's Danish necklace was a king's gift. Her next jewel on this list came twenty-five years",
+   "need": "Alexandra portrait c.1880s (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S081A_main__alexandra-edward-1884.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; low res 400x617 [400x617]"
+  },
+  {
+   "shot": "S082A",
+   "startSec": 365.3,
+   "endSec": 368.83,
+   "durationSec": 3.53,
+   "startFrame": 10959,
+   "durationFrames": 106,
+   "narrator": "later, and it was Russian in style, the style of the country her sister had married into.",
+   "need": "Empress Maria Feodorovna portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S082A_main__maria-feodorovna-1885.jpg",
+    "alt1": "S082A_alt1__dagmar-denmark-1865.jpg",
+    "alt2": "S082A_alt2__maria-feodorovna-kramskoy-1881.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1168x1592]"
+  },
+  {
+   "shot": "S082B",
+   "startSec": 368.83,
+   "endSec": 372.36,
+   "durationSec": 3.53,
+   "startFrame": 11065,
+   "durationFrames": 106,
+   "narrator": "later, and it was Russian in style, the style of the country her sister had married into.",
+   "need": "St Petersburg 1880s view (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S082B_main__nevsky-prospect-1870.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; St Petersburg 1870s [1161x1289]"
+  },
+  {
+   "shot": "S084A",
+   "startSec": 377.5,
+   "endSec": 382.14,
+   "durationSec": 4.64,
+   "startFrame": 11325,
+   "durationFrames": 139,
+   "narrator": "In 1888, Alexandra had been married for twenty-five years.",
+   "need": "Alexandra & Edward silver wedding 1888 photo/engraving (PD) + GFX \"25 years\"",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S085A",
+   "startSec": 382.14,
+   "endSec": 385.42,
+   "durationSec": 3.28,
+   "startFrame": 11464,
+   "durationFrames": 98,
+   "narrator": "To mark it, a group the Royal Collection calls the Ladies of Society,",
+   "need": "group of Victorian society ladies in court dress, photo 1880s (PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S087A",
+   "startSec": 393.0,
+   "endSec": 398.2,
+   "durationSec": 5.2,
+   "startFrame": 11790,
+   "durationFrames": 156,
+   "narrator": "Garrard made it, at a cost of four thousand four hundred pounds: sixty-one bars",
+   "need": "Garrard shop / 1880s jeweller (PD) + GFX \"£4,400 · 61 bars\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S087A_main__garrard-candlestick-1836.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY MEANING: Garrard-hallmarked object, not a shop image"
+  },
+  {
+   "shot": "S088A",
+   "startSec": 398.2,
+   "endSec": 402.06,
+   "durationSec": 3.86,
+   "startFrame": 11946,
+   "durationFrames": 116,
+   "narrator": "of diamonds, standing upright like the traditional Russian headdress,",
+   "need": "Russian woman in traditional kokoshnik headdress, Prokudin-Gorsky (LOC, PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S089A",
+   "startSec": 402.06,
+   "endSec": 406.66,
+   "durationSec": 4.6,
+   "startFrame": 12062,
+   "durationFrames": 138,
+   "narrator": "the kokoshnik. It can also be worn as a necklace.",
+   "need": "**[JEWEL]** Kokoshnik tiara — Elizabeth II wearing it (Commons 1957 candidate, verify; US gov White House photos PD if she wore it) ; fallba",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S089A_main__elizabeth-1957.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "BiblioArchives / LibraryArchives / CC BY 2.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY Kokoshnik tiara [1000x1006]"
+  },
+  {
+   "shot": "S090A",
+   "startSec": 406.66,
+   "endSec": 409.71,
+   "durationSec": 3.05,
+   "startFrame": 12200,
+   "durationFrames": 92,
+   "narrator": "The Russian shape had a family meaning. Alexandra's sister was Empress Maria",
+   "need": "Alexandra and Maria Feodorovna sisters photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S090A_main__dagmar-alexandra-1875.jpg",
+    "alt1": "S090A_alt1__dagmar-alexandra-thyra-1870s.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1569x2195]"
+  },
+  {
+   "shot": "S090B",
+   "startSec": 409.71,
+   "endSec": 412.76,
+   "durationSec": 3.05,
+   "startFrame": 12291,
+   "durationFrames": 92,
+   "narrator": "The Russian shape had a family meaning. Alexandra's sister was Empress Maria",
+   "need": "Maria Feodorovna coronation portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S090B_main__maria-feodorovna-coronation-1883.jpg",
+    "alt1": "S090B_alt1__coronation-alexander-iii-detail.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [2893x4311]"
+  },
+  {
+   "shot": "S091A",
+   "startSec": 412.76,
+   "endSec": 416.04,
+   "durationSec": 3.28,
+   "startFrame": 12383,
+   "durationFrames": 98,
+   "narrator": "Feodorovna, wife of Tsar Alexander the Third.",
+   "need": "Tsar Alexander III portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S091A_main__alexander-iii-loc.jpg",
+    "alt1": "S091A_alt1__alexander-iii-family-livadia.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; LOC item [3142x5120]"
+  },
+  {
+   "shot": "S092A",
+   "startSec": 416.04,
+   "endSec": 419.96,
+   "durationSec": 3.92,
+   "startFrame": 12481,
+   "durationFrames": 118,
+   "narrator": "Alexandra wore it often. One occasion stands out.",
+   "need": "Alexandra in tiara photo 1890s (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S092A_main__alexandra-1892.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Commons label 'No restrictions' - VERIFY basis; check tiara vis"
+  },
+  {
+   "shot": "S093A",
+   "startSec": 419.96,
+   "endSec": 424.76,
+   "durationSec": 4.8,
+   "startFrame": 12599,
+   "durationFrames": 144,
+   "narrator": "In 1893, she wore it to the marriage of the Duke of York to Princess Victoria",
+   "need": "wedding of Duke of York and Princess May 1893 painting/photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S093A_main__york-teck-wedding-1893.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1500x1100]"
+  },
+  {
+   "shot": "S094A",
+   "startSec": 424.76,
+   "endSec": 428.02,
+   "durationSec": 3.26,
+   "startFrame": 12743,
+   "durationFrames": 98,
+   "narrator": "Mary of Teck. The bride that day would one day own this tiara.",
+   "need": "Princess May of Teck 1893 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S094A_main__princess-may-teck-1893.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [419x800]"
+  },
+  {
+   "shot": "S095A",
+   "startSec": 431.28,
+   "endSec": 435.6,
+   "durationSec": 4.32,
+   "startFrame": 12938,
+   "durationFrames": 130,
+   "narrator": "After Alexandra's death in 1925, it passed to that bride,",
+   "need": "Queen Alexandra late photo / funeral 1925 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S095A_main__alexandra-funeral-1925.jpg",
+    "alt1": "S095A_alt1__queen-alexandra-1923.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "Library of Congress, Prints & Photographs Division (courtesy)"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY RIGHTS: Gallica/Agence Rol photo; confirm BnF reuse term"
+  },
+  {
+   "shot": "S096A",
+   "startSec": 435.6,
+   "endSec": 440.0,
+   "durationSec": 4.4,
+   "startFrame": 13068,
+   "durationFrames": 132,
+   "narrator": "by then Queen Mary, who also wore it frequently.",
+   "need": "Queen Mary wearing kokoshnik tiara, photo 1920s–30s (LOC Bain/PD, verify tiara)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S096A_main__queen-mary-1934.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: kokoshnik not confirmed; if not, mark NOT FOUND ["
+  },
+  {
+   "shot": "S097A",
+   "startSec": 440.0,
+   "endSec": 442.93,
+   "durationSec": 2.93,
+   "startFrame": 13200,
+   "durationFrames": 88,
+   "narrator": "And in 1953, Mary bequeathed it to her granddaughter, Elizabeth.",
+   "need": "Queen Mary late portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S097A_main__queen-mary-allen-gac.jpg",
+    "alt1": "S097A_alt1__queen-mary-and-queen-elizabeth.jpg",
+    "alt2": "S097A_alt2__queen-mary-llewellyn-gac.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Government Art Collection painting [3977x6102]"
+  },
+  {
+   "shot": "S099A",
+   "startSec": 448.86,
+   "endSec": 451.8,
+   "durationSec": 2.94,
+   "startFrame": 13466,
+   "durationFrames": 88,
+   "narrator": "The next one was Russian by birth, and it lived through a revolution.",
+   "need": "Russia 1917 revolution crowd photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S099A_main__petrograd-may-day-1917.tif",
+    "alt1": "S099A_alt1__revolution-celebration-vladivostok-1917.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Karl Karlovitsh Bulla / CC BY 4.0",
+    "alt1": "Library of Congress, Prints & Photographs Division (courtesy)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; CC BY 4.0 Finnish Heritage Agency; credit required [6172x4691]"
+  },
+  {
+   "shot": "S099B",
+   "startSec": 451.8,
+   "endSec": 454.74,
+   "durationSec": 2.94,
+   "startFrame": 13554,
+   "durationFrames": 88,
+   "narrator": "The next one was Russian by birth, and it lived through a revolution.",
+   "need": "Winter Palace 1917 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S099B_main__winter-palace-oct-1917.jpg",
+    "alt1": "S099B_alt1__winter-palace-attack-iwm.jpg",
+    "alt2": "S099B_alt2__neva-winter-palace-1917.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [800x586]"
+  },
+  {
+   "shot": "S101A",
+   "startSec": 458.74,
+   "endSec": 463.8,
+   "durationSec": 5.06,
+   "startFrame": 13762,
+   "durationFrames": 152,
+   "narrator": "The first woman to wear it was a Russian grand duchess, Maria Pavlovna,",
+   "need": "Grand Duchess Maria Pavlovna \"in court dress\" (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S101A_main__maria-pavlovna-court-dress.jpg",
+    "alt1": "S101A_alt1__maria-pavlovna-kustodiev-1911.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; low res 587x800; brief-named image [587x800]"
+  },
+  {
+   "shot": "S102A",
+   "startSec": 463.8,
+   "endSec": 466.63,
+   "durationSec": 2.83,
+   "startFrame": 13914,
+   "durationFrames": 85,
+   "narrator": "wife of Grand Duke Vladimir. It was made for her around 1874,",
+   "need": "Grand Duke Vladimir Alexandrovich portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S102A_main__grand-duke-vladimir.jpg",
+    "alt1": "S102A_alt1__grand-duke-vladimir-levitsky.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; c1870 [1813x2503]"
+  },
+  {
+   "shot": "S103A",
+   "startSec": 469.46,
+   "endSec": 474.18,
+   "durationSec": 4.72,
+   "startFrame": 14084,
+   "durationFrames": 142,
+   "narrator": "probably at the time of her marriage, and almost certainly, the Royal Collection says,",
+   "need": "St Petersburg 1870s view / wedding 1874 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S103A_main__winter-palace-drawing-room-1872.jpg",
+    "alt1": "S103A_alt1__winter-palace-bedchamber-1870.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; St Petersburg 1872 (Hau); era of Maria Pavlovna's 1874 marriage"
+  },
+  {
+   "shot": "S105A",
+   "startSec": 477.56,
+   "endSec": 481.4,
+   "durationSec": 3.84,
+   "startFrame": 14327,
+   "durationFrames": 115,
+   "narrator": "Intersecting circles of diamonds, each hung with a pearl.",
+   "need": "**[JEWEL]** Vladimir tiara — LAC 1959 portrait of Elizabeth II (PD-Canada-Crown, verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S105A_main__elizabeth-ii-1959.jpg",
+    "alt1": "S105A_alt1__elizabeth-ii-1959-crop.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Vladimir tiara? 730x932 only; seek LAC original ["
+  },
+  {
+   "shot": "S108A",
+   "startSec": 487.04,
+   "endSec": 489.43,
+   "durationSec": 2.39,
+   "startFrame": 14611,
+   "durationFrames": 72,
+   "narrator": "One night in September that year, at her house in Kislovodsk, a committee of",
+   "need": "Kislovodsk pre-1917 photo / postcard (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S108A_main__kislovodsk-park-2013.jpg",
+    "alt1": "S108A_alt1__kislovodsk-national-park.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Vyacheslav Argenberg / CC BY 4.0",
+    "alt1": "Vyacheslav Argenberg / CC BY 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY: modern 2013 photo of Kislovodsk park, not archival pre-"
+  },
+  {
+   "shot": "S111A",
+   "startSec": 500.84,
+   "endSec": 504.27,
+   "durationSec": 3.43,
+   "startFrame": 15025,
+   "durationFrames": 103,
+   "narrator": "We know this because she wrote to a British friend, Albert Stopford, and he recorded what she wrote in his diary.",
+   "need": "Albert Stopford portrait if PD; else archive.org page of \"The Russian Diary of an Englishman\" 1919 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S111A_main__stopford-diary-title-page.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Checked visually: title page 'The Russian Diary of an Englishman, Petrograd 1915-1917', Heinemann 1919"
+  },
+  {
+   "shot": "S111B",
+   "startSec": 504.27,
+   "endSec": 507.7,
+   "durationSec": 3.43,
+   "startFrame": 15128,
+   "durationFrames": 103,
+   "narrator": "We know this because she wrote to a British friend, Albert Stopford, and he recorded what she wrote in his diary.",
+   "need": "diary page close-up",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S111B_main__stopford-diary-p181-kislovodsk.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "Diary page 181 (27 July 1917, Kislovodsk, Grand Duchess Vladimir). NOT the September letter - generic diary page. Published 1919. | Better page for this beat no"
+  },
+  {
+   "shot": "S112A",
+   "startSec": 507.7,
+   "endSec": 512.32,
+   "durationSec": 4.62,
+   "startFrame": 15231,
+   "durationFrames": 139,
+   "narrator": "His published diary records her letter. It does not record what Sotheby's",
+   "need": "archive.org diary page crop with letter passage",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S112A_main__stopford-diary-p209-kislovodsk-letter.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "CHECKED VISUALLY: page 209 records her letter from Kislovodsk about the night of 13-14 Sept 1917 (Committee of Workmen and Soldiers searched her house). Publish"
+  },
+  {
+   "shot": "S113A",
+   "startSec": 512.32,
+   "endSec": 514.85,
+   "durationSec": 2.53,
+   "startFrame": 15370,
+   "durationFrames": 76,
+   "narrator": "would later say he did: that he left Petrograd that month carrying her jewels,",
+   "need": "Petrograd 1917 railway station photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S113A_main__milk-line-petrograd.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Library of Congress, Prints & Photographs Division (courtesy)"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY MEANING: Petrograd street scene (milk queue), NOT the railway station | No known restrictions on publication. For more information, see George Grantham B"
+  },
+  {
+   "shot": "S115A",
+   "startSec": 520.68,
+   "endSec": 524.02,
+   "durationSec": 3.34,
+   "startFrame": 15620,
+   "durationFrames": 100,
+   "narrator": "On that, the diary is silent.",
+   "need": "diary closed / page blank margin crop; GFX \"silent\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S115A_main__stopford-diary-p210-end.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Internet Archive (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "CHECKED VISUALLY: page 210, last diary entry (6 Oct), lower half blank - fits 'the diary is silent'"
+  },
+  {
+   "shot": "S117A",
+   "startSec": 528.24,
+   "endSec": 532.14,
+   "durationSec": 3.9,
+   "startFrame": 15847,
+   "durationFrames": 117,
+   "narrator": "In 1921, her daughter, Princess Nicholas of Greece,",
+   "need": "Princess Nicholas of Greece (Grand Duchess Elena Vladimirovna) portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S117A_main__elena-vladimirovna-portrait.jpg",
+    "alt1": "S117A_alt1__elena-vladimirovna-flameng-1905.jpg",
+    "alt2": "S117A_alt2__elena-vladimirovna-greece.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [3818x4992]"
+  },
+  {
+   "shot": "S118A",
+   "startSec": 532.14,
+   "endSec": 535.04,
+   "durationSec": 2.9,
+   "startFrame": 15964,
+   "durationFrames": 87,
+   "narrator": "sold it to Queen Mary. Elizabeth inherited it in 1953.",
+   "need": "Queen Mary 1920s photo (PD) + GFX \"1921\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S118A_main__queen-mary-wellcome-1912.jpg",
+    "alt1": "S118A_alt1__queen-mary-orpen.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "John Thomson / CC BY 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; dated circa 1912 not 1921; CC BY 4.0 Wellcome; credit required "
+  },
+  {
+   "shot": "S119A",
+   "startSec": 537.94,
+   "endSec": 543.14,
+   "durationSec": 5.2,
+   "startFrame": 16138,
+   "durationFrames": 156,
+   "narrator": "In her official portrait for her 1959 tour, she is wearing it.",
+   "need": "**[JEWEL]** LAC 1959 tour portrait (PD) full frame",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S119A_main__elizabeth-1959-tour-portrait.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "JEWEL VERIFY Vladimir tiara; only 739x985, seek LAC original [739x985]"
+  },
+  {
+   "shot": "S121A",
+   "startSec": 546.7,
+   "endSec": 549.86,
+   "durationSec": 3.16,
+   "startFrame": 16401,
+   "durationFrames": 95,
+   "narrator": "with its original pearls, with nothing hanging at all, and with pendant emeralds.",
+   "need": "**[JEWEL]** rights-clear photo of Elizabeth II in Vladimir with emeralds (US gov / Dutch NA candidates, verify)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S121B",
+   "startSec": 549.86,
+   "endSec": 553.02,
+   "durationSec": 3.16,
+   "startFrame": 16496,
+   "durationFrames": 95,
+   "narrator": "with its original pearls, with nothing hanging at all, and with pendant emeralds.",
+   "need": "**[JEWEL]** with pearls (LAC 1959)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S121B_main__elizabeth-ii-1959-tour-retouched.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "JEWEL VERIFY: Vladimir with pearls?; retouched version of the LAC portrait (not AI upscale) [1000x1269]"
+  },
+  {
+   "shot": "S122A",
+   "startSec": 553.02,
+   "endSec": 557.74,
+   "durationSec": 4.72,
+   "startFrame": 16591,
+   "durationFrames": 142,
+   "narrator": "By published accounts, those emeralds came from Queen Mary's Cambridge emeralds,",
+   "need": "Duchess of Cambridge (Augusta) portrait (PD) + GFX \"Cambridge emeralds\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S122A_main__augusta-duchess-cambridge-1820.jpg",
+    "alt1": "S122A_alt1__augusta-lucas-painting.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1161x1364]"
+  },
+  {
+   "shot": "S127B",
+   "startSec": 574.91,
+   "endSec": 577.22,
+   "durationSec": 2.31,
+   "startFrame": 17247,
+   "durationFrames": 69,
+   "narrator": "A house searched in the middle of the night. None of the women who first wore these",
+   "need": "five first-wearer portraits side by side",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S128A",
+   "startSec": 577.22,
+   "endSec": 580.04,
+   "durationSec": 2.82,
+   "startFrame": 17317,
+   "durationFrames": 85,
+   "narrator": "five chose Elizabeth as her heir.",
+   "need": "young Elizabeth II portrait rights-clear (PD gov)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S128A_main__elizabeth-philip-1951.jpg",
+    "alt1": "S128A_alt1__elizabeth-trooping-1951.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Studio of Baron / CC BY 2.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; young Elizabeth 1951; CC BY 2.0 [973x1270]"
+  },
+  {
+   "shot": "S132A",
+   "startSec": 595.32,
+   "endSec": 599.84,
+   "durationSec": 4.52,
+   "startFrame": 17860,
+   "durationFrames": 136,
+   "narrator": "According to published histories of the collection, on the eve of the First World War,",
+   "need": "1914 London street / eve of WWI photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S132A_main__outbreak-wwi-1914-iwm.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; IWM Q-series; Commons says PD - confirm basis [5539x3784]"
+  },
+  {
+   "shot": "S133A",
+   "startSec": 599.84,
+   "endSec": 604.5,
+   "durationSec": 4.66,
+   "startFrame": 17995,
+   "durationFrames": 140,
+   "narrator": "Queen Mary had Garrard make a tiara modeled on the Cambridge Lover's Knot tiara that",
+   "need": "Garrard / jeweller (PD) + GFX \"Lover's Knot\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S133A_main__garrard-pilgrim-bottle-pair.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "The Metropolitan Museum of Art (optional)"
+   },
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY MEANING: second Garrard object, not a shop image"
+  },
+  {
+   "shot": "S134A",
+   "startSec": 604.5,
+   "endSec": 609.16,
+   "durationSec": 4.66,
+   "startFrame": 18135,
+   "durationFrames": 140,
+   "narrator": "had belonged to her own grandmother, Princess Augusta, Duchess of Cambridge.",
+   "need": "Princess Augusta, Duchess of Cambridge portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S134A_main__augusta-beechey-1818.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": " [927x1453]"
+  },
+  {
+   "shot": "S137A",
+   "startSec": 615.72,
+   "endSec": 620.62,
+   "durationSec": 4.9,
+   "startFrame": 18472,
+   "durationFrames": 147,
+   "narrator": "It was a copy of a family piece. The same histories say Elizabeth inherited",
+   "need": "Queen Mary in the Lover's Knot tiara (LOC Bain/PD, verify tiara)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S137A_main__queen-mary-nowell-1935.jpg",
+    "alt1": "S137A_alt1__queen-mary-nowell-1927.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Lover's Knot not confirmed [986x1200]"
+  },
+  {
+   "shot": "S139A",
+   "startSec": 623.48,
+   "endSec": 628.2,
+   "durationSec": 4.72,
+   "startFrame": 18704,
+   "durationFrames": 142,
+   "narrator": "Then it left her hands. Royal jewelry historians record that in 1981",
+   "need": "1981 — St Paul's Cathedral exterior (CC) + GFX \"1981\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S139A_main__st-pauls-cathedral-exterior.jpg",
+    "alt1": "S139A_alt1__diana-wedding-st-pauls-1981.jpg",
+    "alt2": "S139A_alt2__st-pauls-2010.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Ronnie Macdonald from Chelmsford, United Kingdom / CC BY 2.0",
+    "alt2": "Diliff / CC BY-SA 3.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [5184x3456]"
+  },
+  {
+   "shot": "S140A",
+   "startSec": 628.2,
+   "endSec": 632.04,
+   "durationSec": 3.84,
+   "startFrame": 18846,
+   "durationFrames": 115,
+   "narrator": "it went to the new Princess of Wales.",
+   "need": "Diana, Princess of Wales rights-clear photo (US gov PD — e.g. White House 1985 photos; verify tiara)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S140A_main__diana-travolta-white-house-1985.jpg",
+    "alt1": "S140A_alt1__diana-reagan-dancing-1985.jpg",
+    "alt2": "S140A_alt2__diana-tea-reagans-1985.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Lover's Knot tiara NOT confirmed (unverified reco"
+  },
+  {
+   "shot": "S141A",
+   "startSec": 632.04,
+   "endSec": 634.69,
+   "durationSec": 2.65,
+   "startFrame": 18961,
+   "durationFrames": 80,
+   "narrator": "Diana did not wear it to her wedding. She married in her own family's Spencer tiara.",
+   "need": "Spencer family / Althorp (CC) ; NO wedding agency photos",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S141A_main__althorp-house.jpg",
+    "alt1": "S141A_alt1__althorp-entrance.jpg",
+    "alt2": "S141A_alt2__althorp-4624907.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Andrew Walker (walker44) / CC BY-SA 3.0",
+    "alt1": "Steve Daniels / CC BY-SA 2.0",
+    "alt2": "Kim Fyson / CC BY-SA 2.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; CC BY-SA 3.0 [3456x2304]"
+  },
+  {
+   "shot": "S142A",
+   "startSec": 637.34,
+   "endSec": 641.34,
+   "durationSec": 4.0,
+   "startFrame": 19120,
+   "durationFrames": 120,
+   "narrator": "But she wore this one often. According to press accounts,",
+   "need": "**[JEWEL]** Diana wearing Lover's Knot — US gov PD photo (White House/DoD 1985 visit; verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S142A_main__diana-north-portico-1985.jpg",
+    "alt1": "S142A_alt1__diana-state-dining-room-1985.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Lover's Knot NOT confirmed; if no tiara visible m"
+  },
+  {
+   "shot": "S143A",
+   "startSec": 641.34,
+   "endSec": 644.89,
+   "durationSec": 3.55,
+   "startFrame": 19240,
+   "durationFrames": 106,
+   "narrator": "after her divorce, it came back to the Queen. Since twenty fifteen, it has been worn by Catherine.",
+   "need": "Buckingham Palace (CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S143A_main__buckingham-palace-west-facade.jpg",
+    "alt1": "S143A_alt1__buckingham-west-facade-geograph.jpg",
+    "alt2": "S143A_alt2__buckingham-from-gardens.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "Richard Cooke / CC BY-SA 2.0",
+    "alt2": "Diliff / CC BY-SA 3.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; US gov 2019 [2048x1365]"
+  },
+  {
+   "shot": "S143B",
+   "startSec": 644.89,
+   "endSec": 648.44,
+   "durationSec": 3.55,
+   "startFrame": 19347,
+   "durationFrames": 107,
+   "narrator": "after her divorce, it came back to the Queen. Since twenty fifteen, it has been worn by Catherine.",
+   "need": "**[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / gov PD, verify)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S145A",
+   "startSec": 653.4,
+   "endSec": 658.1,
+   "durationSec": 4.7,
+   "startFrame": 19602,
+   "durationFrames": 141,
+   "narrator": "The next jewel also began with Mary's grandmother, and with a will the public",
+   "need": "Duchess of Cambridge (Augusta) portrait again (different crop)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S145A_main__augusta-with-children-1823.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1399x2000]"
+  },
+  {
+   "shot": "S148A",
+   "startSec": 665.06,
+   "endSec": 669.74,
+   "durationSec": 4.68,
+   "startFrame": 19952,
+   "durationFrames": 140,
+   "narrator": "On December twelfth, 1911, George the Fifth and Queen Mary",
+   "need": "George V and Queen Mary at Delhi Durbar 1911 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S148A_main__durbar-george-v-mary-1911.jpg",
+    "alt1": "S148A_alt1__durbar-robes-1911.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; check visually [5933x3539]"
+  },
+  {
+   "shot": "S149A",
+   "startSec": 669.74,
+   "endSec": 671.66,
+   "durationSec": 1.92,
+   "startFrame": 20092,
+   "durationFrames": 58,
+   "narrator": "appeared at the Delhi Durbar. For the occasion,",
+   "need": "Delhi Durbar 1911 crowd/amphitheatre (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S149A_main__delhi-durbar-1911-crowd.jpg",
+    "alt1": "S149A_alt1__delhi-durbar-jharokha.jpg",
+    "alt2": "S149A_alt2__durbar-1912-kinemacolor-elephants.mp4"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": " [1139x634]"
+  },
+  {
+   "shot": "S150A",
+   "startSec": 673.58,
+   "endSec": 679.06,
+   "durationSec": 5.48,
+   "startFrame": 20207,
+   "durationFrames": 164,
+   "narrator": "Garrard made Mary a suite of jewels. This necklace is part of it.",
+   "need": "Queen Mary in Durbar jewels 1911–12 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S150A_main__queen-mary-circa-1913.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY visually: which jewels; Durbar suite not confirmed [1914"
+  },
+  {
+   "shot": "S152A",
+   "startSec": 682.0,
+   "endSec": 685.76,
+   "durationSec": 3.76,
+   "startFrame": 20460,
+   "durationFrames": 113,
+   "narrator": "The Royal Collection records that they had belonged to Mary's grandmother,",
+   "need": "Duchess of Cambridge portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S152A_main__augusta-tieleman-1823.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1170x1650]"
+  },
+  {
+   "shot": "S153B",
+   "startSec": 688.55,
+   "endSec": 691.34,
+   "durationSec": 2.79,
+   "startFrame": 20656,
+   "durationFrames": 84,
+   "narrator": "the Duchess of Cambridge, and that Mary acquired them in 1910.",
+   "need": "Queen Mary 1910 photo (PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S155A",
+   "startSec": 697.62,
+   "endSec": 700.16,
+   "durationSec": 2.54,
+   "startFrame": 20929,
+   "durationFrames": 76,
+   "narrator": "The duchess, the story goes, won them in a lottery in Frankfurt.",
+   "need": "Frankfurt 19th-c. view (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S155A_main__frankfurt-main-lc-19th-c.jpg",
+    "alt1": "S155A_alt1__frankfurt-kaiserstrasse-lc.jpg",
+    "alt2": "S155A_alt2__frankfurt-1810.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; LOC / Detroit Publishing c1890s; Frankfurt 19th c. [3634x2706]"
+  },
+  {
+   "shot": "S156A",
+   "startSec": 702.7,
+   "endSec": 705.4,
+   "durationSec": 2.7,
+   "startFrame": 21081,
+   "durationFrames": 81,
+   "narrator": "They passed to Mary's mother, and then to Mary's brother, Prince Francis of Teck.",
+   "need": "Princess Mary Adelaide, Duchess of Teck portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S156A_main__mary-adelaide-teck-1897.jpg",
+    "alt1": "S156A_alt1__mary-adelaide-1882.jpg",
+    "alt2": "S156A_alt2__mary-adelaide-1858-group.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1208x1630]"
+  },
+  {
+   "shot": "S156B",
+   "startSec": 705.4,
+   "endSec": 708.1,
+   "durationSec": 2.7,
+   "startFrame": 21162,
+   "durationFrames": 81,
+   "narrator": "They passed to Mary's mother, and then to Mary's brother, Prince Francis of Teck.",
+   "need": "Prince Francis of Teck photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S156B_main__francis-of-teck-1884.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [582x800]"
+  },
+  {
+   "shot": "S157A",
+   "startSec": 708.1,
+   "endSec": 713.04,
+   "durationSec": 4.94,
+   "startFrame": 21243,
+   "durationFrames": 148,
+   "narrator": "Francis died in 1910, at forty. And something unusual happened",
+   "need": "Prince Francis of Teck photo (PD) + GFX \"1870–1910\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S157A_main__francis-teck-1888.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "different file from S156B [534x800]"
+  },
+  {
+   "shot": "S158A",
+   "startSec": 713.04,
+   "endSec": 717.88,
+   "durationSec": 4.84,
+   "startFrame": 21391,
+   "durationFrames": 145,
+   "narrator": "to his will. In twenty twenty-one, a High Court judge ruling on",
+   "need": "Royal Courts of Justice exterior (CC) + GFX \"2021\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S158A_main__royal-courts-of-justice.jpg",
+    "alt1": "S158A_alt1__royal-courts-exterior-05.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "The wub / CC BY-SA 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; CC0 [4146x2764]"
+  },
+  {
+   "shot": "S159A",
+   "startSec": 717.88,
+   "endSec": 722.06,
+   "durationSec": 4.18,
+   "startFrame": 21536,
+   "durationFrames": 125,
+   "narrator": "Prince Philip's will explained the custom of sealing royal wills,",
+   "need": "Prince Philip rights-clear photo (gov PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S159A_main__prince-philip-1951.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "low res 477x544 [477x544]"
+  },
+  {
+   "shot": "S164A",
+   "startSec": 744.6,
+   "endSec": 748.4,
+   "durationSec": 3.8,
+   "startFrame": 22338,
+   "durationFrames": 114,
+   "narrator": "Hanging off-center from the necklace is an eight point eight carat marquise diamond,",
+   "need": "**[JEWEL]** Delhi Durbar necklace image — Queen Mary 1911–12 photo crop (PD) ; GFX \"8.8 ct marquise\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S164A_main__queen-mary-wellcome-1912.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "John Thomson / CC BY 4.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: is the Durbar necklace visible? CC BY 4.0 Wellcom"
+  },
+  {
+   "shot": "S166A",
+   "startSec": 753.52,
+   "endSec": 756.94,
+   "durationSec": 3.42,
+   "startFrame": 22606,
+   "durationFrames": 103,
+   "narrator": "That small pendant came from one diamond, and the next jewel holds two of its largest pieces.",
+   "need": "Cullinan diamond 1905 rough photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S166A_main__cullinan-rough-1905.jpg",
+    "alt1": "S166A_alt1__cullinan-replica-1.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "James St. John / CC BY 2.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; low res 300x400 [300x400]"
+  },
+  {
+   "shot": "S168A",
+   "startSec": 763.9,
+   "endSec": 768.18,
+   "durationSec": 4.28,
+   "startFrame": 22917,
+   "durationFrames": 128,
+   "narrator": "The necklace had a companion: the Delhi Durbar tiara.",
+   "need": "Queen Mary in Delhi Durbar tiara (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S168A_main__durbar-george-mary-1912.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Delhi Durbar tiara visible? [1024x659]"
+  },
+  {
+   "shot": "S169A",
+   "startSec": 768.18,
+   "endSec": 772.58,
+   "durationSec": 4.4,
+   "startFrame": 23045,
+   "durationFrames": 132,
+   "narrator": "In 1946, Queen Mary lent that tiara to her daughter-in-law,",
+   "need": "Queen Elizabeth (consort) 1940s photo (PD gov/archive, verify) + GFX \"1946\"",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S170A",
+   "startSec": 772.58,
+   "endSec": 776.0,
+   "durationSec": 3.42,
+   "startFrame": 23177,
+   "durationFrames": 103,
+   "narrator": "Elizabeth's mother, for a royal tour of South Africa the following year.",
+   "need": "1947 royal tour of South Africa photo (PD — South African/UK gov/Nationaal Archief? verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S170A_main__south-africa-1947-footplate.jpg",
+    "alt1": "S170A_alt1__queen-mother-south-africa.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "Robert Cutts / CC BY-SA 2.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; 1947 royal tour; check [720x540]"
+  },
+  {
+   "shot": "S174A",
+   "startSec": 790.22,
+   "endSec": 794.82,
+   "durationSec": 4.6,
+   "startFrame": 23707,
+   "durationFrames": 138,
+   "narrator": "In nineteen oh five, at the Premier Mine near Pretoria, a diamond was found that",
+   "need": "Premier Mine 1905 photo (PD) + GFX 1905",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S174A_main__premier-mine-spot-1905.png",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; illustration of find spot [1573x1252]"
+  },
+  {
+   "shot": "S175A",
+   "startSec": 794.82,
+   "endSec": 799.0,
+   "durationSec": 4.18,
+   "startFrame": 23845,
+   "durationFrames": 125,
+   "narrator": "weighed three thousand one hundred and six carats uncut.",
+   "need": "Cullinan rough diamond 1905 photo with scale (PD) + GFX \"3,106 ct\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S175A_main__cullinan-rough-1908.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "scale/context; 600x650 [600x650]"
+  },
+  {
+   "shot": "S177A",
+   "startSec": 803.64,
+   "endSec": 808.5,
+   "durationSec": 4.86,
+   "startFrame": 24109,
+   "durationFrames": 146,
+   "narrator": "other diamond yet found. The story goes that clerks at the mine first threw",
+   "need": "mine officials / Frederick Wells with the stone (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S177A_main__wells-with-cullinan-1905.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Unknown authorUnknown author / CC BY-SA 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; 1905 photo but licence on Commons is CC BY-SA 4.0 (ShareAlike c"
+  },
+  {
+   "shot": "S179A",
+   "startSec": 812.02,
+   "endSec": 817.14,
+   "durationSec": 5.12,
+   "startFrame": 24361,
+   "durationFrames": 154,
+   "narrator": "The Asscher firm in Amsterdam cut it into nine major numbered stones,",
+   "need": "Asscher cleaving the Cullinan 1908 photo (PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S180A",
+   "startSec": 817.14,
+   "endSec": 819.21,
+   "durationSec": 2.07,
+   "startFrame": 24514,
+   "durationFrames": 62,
+   "narrator": "ninety-six smaller ones, and a few uncut fragments.",
+   "need": "Asscher workshop 1908 photo (PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S181A",
+   "startSec": 821.28,
+   "endSec": 824.03,
+   "durationSec": 2.75,
+   "startFrame": 24638,
+   "durationFrames": 82,
+   "narrator": "Two of them, a ninety-four point four carat pear and a sixty-three point six carat",
+   "need": "Cullinan cut stones plate (PD, 1908/1910 publication)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S181A_main__cullinan-major-stones-1908.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [1000x750]"
+  },
+  {
+   "shot": "S182A",
+   "startSec": 826.78,
+   "endSec": 831.7,
+   "durationSec": 4.92,
+   "startFrame": 24803,
+   "durationFrames": 148,
+   "narrator": "cushion, went to Queen Mary. The pear-shaped Cullinan Three was",
+   "need": "Queen Mary photo with Cullinan brooch (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S182A_main__queen-mary-loc-1900s.jpg",
+    "alt1": "S182A_alt1__queen-mary-autochrome-1914.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Cullinan brooch not confirmed; LOC [3722x5034]"
+  },
+  {
+   "shot": "S185A",
+   "startSec": 840.32,
+   "endSec": 843.96,
+   "durationSec": 3.64,
+   "startFrame": 25210,
+   "durationFrames": 109,
+   "narrator": "In 1911 they were set into her crown.",
+   "need": "Queen Mary's crown 1911 coronation photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S185A_main__queen-mary-coronation-1911.jpg",
+    "alt1": "S185A_alt1__coronation-1911-alt.jpg",
+    "alt2": "S185A_alt2__crowning-queen-mary-1911.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [2000x1597]"
+  },
+  {
+   "shot": "S186A",
+   "startSec": 843.96,
+   "endSec": 846.46,
+   "durationSec": 2.5,
+   "startFrame": 25319,
+   "durationFrames": 75,
+   "narrator": "Then they were mounted together as this brooch.",
+   "need": "Queen Mary wearing the Cullinan III&IV brooch (PD photo, verify)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S187A",
+   "startSec": 846.46,
+   "endSec": 852.72,
+   "durationSec": 6.26,
+   "startFrame": 25394,
+   "durationFrames": 188,
+   "narrator": "Later, the Delhi Durbar tiara from the last chapter was altered so that it could carry them too.",
+   "need": "Queen Mary in Delhi Durbar tiara with Cullinan (PD)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S188B",
+   "startSec": 855.02,
+   "endSec": 857.32,
+   "durationSec": 2.3,
+   "startFrame": 25651,
+   "durationFrames": 69,
+   "narrator": "Elizabeth inherited it in 1953. In 1958,",
+   "need": "Amsterdam 1958 state visit photo (Nationaal Archief CC0)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S188B_main__na-1958-amsterdam-procession.jpg",
+    "alt1": "S188B_alt1__na-1958-254-7269.jpg",
+    "alt2": "S188B_alt2__na-1958-254-7278.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [3299x2623]"
+  },
+  {
+   "shot": "S189A",
+   "startSec": 857.32,
+   "endSec": 862.12,
+   "durationSec": 4.8,
+   "startFrame": 25720,
+   "durationFrames": 144,
+   "narrator": "by the Asscher firm's account, she visited their works in Amsterdam and called these stones",
+   "need": "Nationaal Archief 1958 Queen at Asscher / Amsterdam (CC0, verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S189A_main__na-1958-state-visit-4460.jpg",
+    "alt1": "S189A_alt1__na-1958-state-visit-4441.jpg",
+    "alt2": "S189A_alt2__na-1958-state-visit-4432.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY: is this Asscher visit? Nationaal Archief 909-4460 [4079"
+  },
+  {
+   "shot": "S190B",
+   "startSec": 864.67,
+   "endSec": 867.22,
+   "durationSec": 2.55,
+   "startFrame": 25940,
+   "durationFrames": 77,
+   "narrator": "Granny's Chips. In twenty twelve, at the service at Saint Paul's",
+   "need": "St Paul's Cathedral 2012 (CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S190B_main__st-pauls-diamond-jubilee-2012-06-05.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Carfax2 / CC BY-SA 3.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; dated 5 June 2012 = Diamond Jubilee service day [4272x2848]"
+  },
+  {
+   "shot": "S191A",
+   "startSec": 867.22,
+   "endSec": 871.18,
+   "durationSec": 3.96,
+   "startFrame": 26017,
+   "durationFrames": 119,
+   "narrator": "Cathedral for her Diamond Jubilee, she wore the brooch.",
+   "need": "**[JEWEL]** Elizabeth II 2012 Diamond Jubilee with brooch — rights-clear (Commons CC/gov, verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S191A_main__elizabeth-ii-jubilee-2012-06-05.jpg",
+    "alt1": "S191A_alt1__elizabeth-prime-ministers-2012.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Carfax2 / CC BY-SA 3.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY brooch; dated 5 June 2012; CC BY-SA 3.0 [3298x2198"
+  },
+  {
+   "shot": "S193A",
+   "startSec": 874.94,
+   "endSec": 879.12,
+   "durationSec": 4.18,
+   "startFrame": 26248,
+   "durationFrames": 125,
+   "narrator": "The next was first worn by a brewer's daughter.",
+   "need": "Carolus-Duran portrait of Mrs Greville (National Trust, PD)",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S195A",
+   "startSec": 883.56,
+   "endSec": 887.42,
+   "durationSec": 3.86,
+   "startFrame": 26507,
+   "durationFrames": 116,
+   "narrator": "Margaret Greville was born into money, not into a title.",
+   "need": "Mrs Greville photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S195A_main__greville-circa-1920.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [800x1252]"
+  },
+  {
+   "shot": "S196A",
+   "startSec": 887.42,
+   "endSec": 889.17,
+   "durationSec": 1.75,
+   "startFrame": 26623,
+   "durationFrames": 52,
+   "narrator": "Her father was William McEwan, a millionaire brewer.",
+   "need": "William McEwan portrait (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S196A_main__william-mcewan-benjamin-constant-1900.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; painting 1900 [843x1200]"
+  },
+  {
+   "shot": "S196B",
+   "startSec": 889.17,
+   "endSec": 890.92,
+   "durationSec": 1.75,
+   "startFrame": 26675,
+   "durationFrames": 52,
+   "narrator": "Her father was William McEwan, a millionaire brewer.",
+   "need": "McEwan's brewery Fountainbridge (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S196B_main__fountain-brewery-edinburgh.jpg",
+    "alt1": "S196B_alt1__fountain-brewery-2.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Lokal_Profil / CC BY-SA 3.0",
+    "alt1": "Lokal_Profil / CC BY-SA 3.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; modern photo of the McEwan Fountain Brewery site; CC BY-SA 3.0 "
+  },
+  {
+   "shot": "S197A",
+   "startSec": 890.92,
+   "endSec": 895.24,
+   "durationSec": 4.32,
+   "startFrame": 26728,
+   "durationFrames": 130,
+   "narrator": "She married Ronald Greville in 1891.",
+   "need": "Ronald Greville photo (PD) + GFX 1891",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S197A_main__ronald-greville-1906.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [800x479]"
+  },
+  {
+   "shot": "S198A",
+   "startSec": 895.24,
+   "endSec": 899.4,
+   "durationSec": 4.16,
+   "startFrame": 26857,
+   "durationFrames": 125,
+   "narrator": "Soon after she bought a country house in Surrey, Polesden Lacey,",
+   "need": "Polesden Lacey exterior (Commons CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S198A_main__polesden-lacey-east-front.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Matt Ellery https://www.flickr.com/photos/matt_ellery/ / CC BY-SA 2.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; CC BY-SA 2.0 condition [5390x4013]"
+  },
+  {
+   "shot": "S199A",
+   "startSec": 899.4,
+   "endSec": 904.2,
+   "durationSec": 4.8,
+   "startFrame": 26982,
+   "durationFrames": 144,
+   "narrator": "her husband died, in nineteen oh eight. They had no children.",
+   "need": "Polesden Lacey interior (CC) + GFX 1908",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S199A_main__polesden-lacey-west.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Martinvl / CC BY-SA 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; CC BY-SA 4.0 condition [5184x3456]"
+  },
+  {
+   "shot": "S200A",
+   "startSec": 904.2,
+   "endSec": 909.14,
+   "durationSec": 4.94,
+   "startFrame": 27126,
+   "durationFrames": 148,
+   "narrator": "In 1923, the future King George the Sixth and his bride spent",
+   "need": "Duke & Duchess of York 1923 wedding photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S200A_main__york-wedding-1923.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [5100x3690]"
+  },
+  {
+   "shot": "S201A",
+   "startSec": 909.14,
+   "endSec": 911.77,
+   "durationSec": 2.63,
+   "startFrame": 27274,
+   "durationFrames": 79,
+   "narrator": "their honeymoon at Polesden Lacey. That bride, later Queen Elizabeth the Queen Mother,",
+   "need": "Polesden Lacey gardens (CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S201A_main__polesden-lacey-2024.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Tim Schofield / CC BY 2.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [4608x2595]"
+  },
+  {
+   "shot": "S201B",
+   "startSec": 911.77,
+   "endSec": 914.4,
+   "durationSec": 2.63,
+   "startFrame": 27353,
+   "durationFrames": 79,
+   "narrator": "their honeymoon at Polesden Lacey. That bride, later Queen Elizabeth the Queen Mother,",
+   "need": "Elizabeth Bowes-Lyon 1923 (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S201B_main__bowes-lyon-1923.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Jan 1923 photo [1447x1608]"
+  },
+  {
+   "shot": "S203B",
+   "startSec": 922.24,
+   "endSec": 925.06,
+   "durationSec": 2.82,
+   "startFrame": 27667,
+   "durationFrames": 85,
+   "narrator": "unkind, so sharp, such fun, so naughty.",
+   "need": "Mrs Greville portrait crop",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S203B_main__greville-1900.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [750x938]"
+  },
+  {
+   "shot": "S204A",
+   "startSec": 925.06,
+   "endSec": 929.18,
+   "durationSec": 4.12,
+   "startFrame": 27752,
+   "durationFrames": 124,
+   "narrator": "In 1938, Missus Greville bought these earrings from Cartier.",
+   "need": "Cartier Paris/London 1930s shopfront (PD/CC) + GFX 1938",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S204A_main__cartier-album-1924.jpg",
+    "alt1": "S204A_alt1__rue-de-la-paix-1927.jpg",
+    "alt2": "S204A_alt2__cartier-rue-de-la-paix-11.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt2": "Vania Teofilo / CC BY-SA 3.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Paris Musees CC0; Cartier shop 1924 [3832x5843]"
+  },
+  {
+   "shot": "S207A",
+   "startSec": 939.1,
+   "endSec": 941.92,
+   "durationSec": 2.82,
+   "startFrame": 28173,
+   "durationFrames": 85,
+   "narrator": "She died in 1942, in the middle of the war, at the Dorchester hotel in London.",
+   "need": "London Blitz 1942 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S207A_main__st-pauls-survives.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY RIGHTS: famous Herbert Mason 1940 photo - Commons says P"
+  },
+  {
+   "shot": "S207B",
+   "startSec": 941.92,
+   "endSec": 944.74,
+   "durationSec": 2.82,
+   "startFrame": 28258,
+   "durationFrames": 85,
+   "narrator": "She died in 1942, in the middle of the war, at the Dorchester hotel in London.",
+   "need": "Dorchester hotel exterior (CC)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S207B_main__dorchester-hotel.jpg",
+    "alt1": "S207B_alt1__dorchester-frontage.jpg",
+    "alt2": "S207B_alt2__dorchester-park-lane.jpg"
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "|| UggBoy♥UggGirl || PHOTO || WORLD || TRAVEL || / CC BY 2.0",
+    "alt1": "LondonHistoryatHome / CC BY-SA 4.0",
+    "alt2": "LondonHistoryatHome / CC BY-SA 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [2416x1974]"
+  },
+  {
+   "shot": "S208A",
+   "startSec": 944.74,
+   "endSec": 949.36,
+   "durationSec": 4.62,
+   "startFrame": 28342,
+   "durationFrames": 139,
+   "narrator": "She left Polesden Lacey to the nation, in memory of her father.",
+   "need": "Polesden Lacey (CC) + National Trust sign",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S208A_main__polesden-lacey-2025.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Jim Bowen / CC BY 4.0"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [3053x2800]"
+  },
+  {
+   "shot": "S209B",
+   "startSec": 951.9,
+   "endSec": 954.44,
+   "durationSec": 2.54,
+   "startFrame": 28557,
+   "durationFrames": 76,
+   "narrator": "And she left more than sixty pieces of jewelry to Queen Elizabeth, the King's consort,",
+   "need": "Queen Elizabeth (consort) 1940s (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S209B_main__queen-elizabeth-consort-inf3-78.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; UK National Archives poster c1944; check licence basis [4200x36"
+  },
+  {
+   "shot": "S210A",
+   "startSec": 954.44,
+   "endSec": 959.14,
+   "durationSec": 4.7,
+   "startFrame": 28633,
+   "durationFrames": 141,
+   "narrator": "Elizabeth's mother. Among them was a tiara Boucheron had made for her",
+   "need": "Queen Elizabeth consort portrait (PD gov)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S213A",
+   "startSec": 969.84,
+   "endSec": 973.58,
+   "durationSec": 3.74,
+   "startFrame": 29095,
+   "durationFrames": 112,
+   "narrator": "Her mother kept these earrings for sixty years and,",
+   "need": "Queen Mother later photo rights-clear (gov/CC, verify)",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S216A",
+   "startSec": 980.56,
+   "endSec": 985.94,
+   "durationSec": 5.38,
+   "startFrame": 29417,
+   "durationFrames": 161,
+   "narrator": "In twenty eleven, at a state banquet for the President of Turkey, the Queen wore them.",
+   "need": "**[JEWEL]** 2011 Turkey state banquet photo with Greville earrings + Coronation Necklace (rights-clear only, find; Turkish Presidency press ",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S220A",
+   "startSec": 1002.1,
+   "endSec": 1004.83,
+   "durationSec": 2.73,
+   "startFrame": 30063,
+   "durationFrames": 82,
+   "narrator": "In 1893, Queen Victoria gave Princess Victoria Mary of Teck a",
+   "need": "Princess May 1893 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S220A_main__mary-teck-wedding-dress-1893.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; [2004x3105]"
+  },
+  {
+   "shot": "S220B",
+   "startSec": 1004.83,
+   "endSec": 1007.56,
+   "durationSec": 2.73,
+   "startFrame": 30145,
+   "durationFrames": 82,
+   "narrator": "In 1893, Queen Victoria gave Princess Victoria Mary of Teck a",
+   "need": "Queen Victoria 1893 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S220B_main__victoria-family-coburg-1894.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; dated 1894 not 1893 [3721x3945]"
+  },
+  {
+   "shot": "S222A",
+   "startSec": 1012.06,
+   "endSec": 1015.78,
+   "durationSec": 3.72,
+   "startFrame": 30362,
+   "durationFrames": 112,
+   "narrator": "Mary had it made into a tiara, a fringe of diamond rays,",
+   "need": "**[JEWEL]** Queen Mary wearing the Fringe tiara (PD photo, verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S222A_main__queen-mary-teck-flickr.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "main": "Thomas's Pics / CC BY 2.0"
+   },
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; JEWEL VERIFY: Fringe tiara? not confirmed. Chapter >=S219 only "
+  },
+  {
+   "shot": "S225A",
+   "startSec": 1023.56,
+   "endSec": 1027.94,
+   "durationSec": 4.38,
+   "startFrame": 30707,
+   "durationFrames": 131,
+   "narrator": "It is often said to be made of George the Third's diamonds.",
+   "need": "George III portrait (PD) + GFX \"often said…\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S225A_main__george-iii-ramsay.jpg",
+    "alt1": "S225A_alt1__george-iii-ramsay-ima.jpg",
+    "alt2": "S225A_alt2__george-iii-charlotte-1762.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; c1765 [2433x3801]"
+  },
+  {
+   "shot": "S227A",
+   "startSec": 1031.92,
+   "endSec": 1035.35,
+   "durationSec": 3.43,
+   "startFrame": 30958,
+   "durationFrames": 103,
+   "narrator": "In August 1936, Mary gave the tiara to her daughter-in-law, the future Queen Elizabeth.",
+   "need": "Elizabeth (Duchess of York) 1936 photo (PD)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S227A_main__queen-elizabeth-1936.jpg",
+    "alt1": "S227A_alt1__duchess-of-york-1927.jpg",
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {
+    "alt1": "Library of Congress, Prints & Photographs Division (courtesy)"
+   },
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Dec 1936; check it is not showing the Fringe tiara before S219 "
+  },
+  {
+   "shot": "S228A",
+   "startSec": 1038.78,
+   "endSec": 1044.34,
+   "durationSec": 5.56,
+   "startFrame": 31163,
+   "durationFrames": 167,
+   "narrator": "On November twentieth, 1947, Princess Elizabeth married Philip Mountbatten.",
+   "need": "Nationaal Archief 1947 wedding photo (CC0, verify) + GFX \"20 Nov 1947\"",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S228A_main__na-1947-huwelijk-902-4695.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Nationaal Archief 21 Nov 1947; JEWEL VERIFY tiara visible? [256"
+  },
+  {
+   "shot": "S229A",
+   "startSec": 1044.34,
+   "endSec": 1049.14,
+   "durationSec": 4.8,
+   "startFrame": 31330,
+   "durationFrames": 144,
+   "narrator": "She wore her mother's tiara. The Royal Collection's entry is exact about",
+   "need": "**[JEWEL]** 1947 wedding photo crop on tiara (Nationaal Archief CC0 / PD gov newsreel)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S229A_main__na-1947-huwelijk-902-4694-crop.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Nationaal Archief; JEWEL VERIFY tiara on 1947 wedding [2526x190"
+  },
+  {
+   "shot": "S231A",
+   "startSec": 1054.08,
+   "endSec": 1059.5,
+   "durationSec": 5.42,
+   "startFrame": 31622,
+   "durationFrames": 163,
+   "narrator": "And according to one of her bridesmaids, Lady Pamela Mountbatten, later Lady Pamela Hicks,",
+   "need": "bridesmaids 1947 group photo (PD/CC0, verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S231A_main__alexandra-of-kent-1947.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": true,
+   "note": "VERIFY: bridesmaid at the 1947 wedding? photo of Nov 1947 [471x661]"
+  },
+  {
+   "shot": "S234A",
+   "startSec": 1066.96,
+   "endSec": 1071.34,
+   "durationSec": 4.38,
+   "startFrame": 32009,
+   "durationFrames": 131,
+   "narrator": "After the wedding, it stayed her mother's. Through the coronation,",
+   "need": "Queen Mother 1950s photo (gov/PD, verify)",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S234A_main__queen-mother-1958-reception.jpg",
+    "alt1": "S234A_alt1__queen-mother-brisbane-1958.jpg",
+    "alt2": "S234A_alt2__queen-mother-reception-1958.jpg"
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; Queensland State Archives [1927x2572]"
+  },
+  {
+   "shot": "S235A",
+   "startSec": 1071.34,
+   "endSec": 1073.67,
+   "durationSec": 2.33,
+   "startFrame": 32140,
+   "durationFrames": 70,
+   "narrator": "through decades of the reign, until the Queen Mother died in March two thousand two.",
+   "need": "Queen Mother in later years rights-clear",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S246A",
+   "startSec": 1120.9,
+   "endSec": 1124.2,
+   "durationSec": 3.3,
+   "startFrame": 33627,
+   "durationFrames": 99,
+   "narrator": "Queen Mary's Fringe Tiara.",
+   "need": "**[JEWEL]** Queen Mary in Fringe tiara (PD) — reveal",
+   "state": "NOT_FOUND",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S247A",
+   "startSec": 1124.2,
+   "endSec": 1127.82,
+   "durationSec": 3.62,
+   "startFrame": 33726,
+   "durationFrames": 109,
+   "narrator": "She wore it on her wedding day in 1947.",
+   "need": "**[JEWEL]** 1947 wedding photo (Nationaal Archief CC0) full",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S248B",
+   "startSec": 1130.64,
+   "endSec": 1133.46,
+   "durationSec": 2.82,
+   "startFrame": 33919,
+   "durationFrames": 85,
+   "narrator": "It became hers in two thousand two, more than fifty-four years later.",
+   "need": "**[JEWEL]** 1947 crop",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S249B",
+   "startSec": 1136.86,
+   "endSec": 1140.26,
+   "durationSec": 3.4,
+   "startFrame": 34106,
+   "durationFrames": 102,
+   "narrator": "As far as the record shows, she wore no other jewel on this list before it was hers.",
+   "need": "Elizabeth II later photo rights-clear",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S249B_main__obama-royal-family-2011.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; White House 25 May 2011; low res 650x433 - JEWEL none required;"
+  },
+  {
+   "shot": "S250A",
+   "startSec": 1140.26,
+   "endSec": 1143.16,
+   "durationSec": 2.9,
+   "startFrame": 34208,
+   "durationFrames": 87,
+   "narrator": "The tiara in her wedding photographs was not hers. It was her mother's.",
+   "need": "**[JEWEL]** 1947 wedding photo slow push",
+   "state": "HAS_FILE",
+   "files": {
+    "main": "S250A_main__wedding-portrait-1947.jpg",
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": true,
+   "note": "IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; VERIFY RIGHTS: Commons says PD but wedding portrait photographe"
+  },
+  {
+   "shot": "S255B",
+   "startSec": 1165.86,
+   "endSec": 1169.48,
+   "durationSec": 3.62,
+   "startFrame": 34976,
+   "durationFrames": 109,
+   "narrator": "Seen this way, a queen's collection looks less like a treasure than a chain of hands.",
+   "need": "five first-wearer portraits fade",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": false,
+   "needsCheck": false,
+   "note": ""
+  },
+  {
+   "shot": "S256A",
+   "startSec": 1169.48,
+   "endSec": 1173.38,
+   "durationSec": 3.9,
+   "startFrame": 35084,
+   "durationFrames": 117,
+   "narrator": "On the day she married, she wore something borrowed.",
+   "need": "**[JEWEL]** 1947 wedding image soft focus",
+   "state": "CROP_TO_MAKE",
+   "files": {
+    "main": null,
+    "alt1": null,
+    "alt2": null
+   },
+   "extraFiles": [],
+   "credits": {},
+   "isJewelShot": true,
+   "needsCheck": false,
+   "note": ""
+  }
+ ]
+}
