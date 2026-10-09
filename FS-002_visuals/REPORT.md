@@ -5,11 +5,11 @@ _Generated 2026-10-09 from MANIFEST.csv_
 ## Summary
 
 - Shots in brief: **175**
-- Shots with at least one rights-cleared candidate (main): **74**
-- Shots with 3 variants (main + 2 alt): **2**
-- Shots with NO candidate yet: **101**
-- Manifest rows: **89** — CC0_VERIFIED: 13, CC_BY_VERIFIED: 14, PUBLIC_DOMAIN_VERIFIED: 61, VERIFY: 1
-- Files on disk: **20**; **69** rows have licence + direct URL but the image is not downloaded yet (see below)
+- Shots with at least one rights-cleared candidate (main): **88**
+- Shots with 3 variants (main + 2 alt): **3**
+- Shots with NO candidate yet: **87**
+- Manifest rows: **109** — CC0_VERIFIED: 16, CC_BY_VERIFIED: 18, PUBLIC_DOMAIN_VERIFIED: 73, VERIFY: 2
+- Files on disk: **20**; **89** rows have licence + direct URL but the image is not downloaded yet (see below)
 
 ## IMPORTANT: files that still need downloading
 
@@ -23,7 +23,6 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 
 ## Shots with NO candidate yet
 
-- **S001A** 00:00.00–00:02.37 — **[JEWEL]** Queen Elizabeth II in a tiara and jewels, any rights-clear photo 1950s–2010s (NOT Fringe Tiara, NO
 - **S020A** 01:25.48–01:28.18 — Queen Victoria's journal page facsimile (PD; Commons/archive.org)
 - **S021A** 01:28.18–01:30.53 — Victoria writing / Victoria at desk engraving (PD)
 - **S021B** 01:30.53–01:32.88 — journal page close-up
@@ -76,15 +75,10 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S121B** 09:09.86–09:13.02 — **[JEWEL]** with pearls (LAC 1959)
 - **S122A** 09:13.02–09:17.74 — Duchess of Cambridge (Augusta) portrait (PD) + GFX "Cambridge emeralds"
 - **S127B** 09:34.91–09:37.22 — five first-wearer portraits side by side
-- **S128A** 09:37.22–09:40.04 — young Elizabeth II portrait rights-clear (PD gov)
 - **S132A** 09:55.32–09:59.84 — 1914 London street / eve of WWI photo (PD)
 - **S133A** 09:59.84–10:04.50 — Garrard / jeweller (PD) + GFX "Lover's Knot"
 - **S134A** 10:04.50–10:09.16 — Princess Augusta, Duchess of Cambridge portrait (PD)
 - **S137A** 10:15.72–10:20.62 — Queen Mary in the Lover's Knot tiara (LOC Bain/PD, verify tiara)
-- **S140A** 10:28.20–10:32.04 — Diana, Princess of Wales rights-clear photo (US gov PD — e.g. White House 1985 photos; verify tiara)
-- **S141A** 10:32.04–10:34.69 — Spencer family / Althorp (CC) ; NO wedding agency photos
-- **S142A** 10:37.34–10:41.34 — **[JEWEL]** Diana wearing Lover's Knot — US gov PD photo (White House/DoD 1985 visit; verify)
-- **S143A** 10:41.34–10:44.89 — Buckingham Palace (CC)
 - **S143B** 10:44.89–10:48.44 — **[JEWEL]** Catherine in the Lover's Knot — rights-clear (Commons CC / gov PD, verify)
 - **S145A** 10:53.40–10:58.10 — Duchess of Cambridge (Augusta) portrait again (different crop)
 - **S152A** 11:22.00–11:25.76 — Duchess of Cambridge portrait (PD)
@@ -93,7 +87,6 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S156A** 11:42.70–11:45.40 — Princess Mary Adelaide, Duchess of Teck portrait (PD)
 - **S156B** 11:45.40–11:48.10 — Prince Francis of Teck photo (PD)
 - **S157A** 11:48.10–11:53.04 — Prince Francis of Teck photo (PD) + GFX "1870–1910"
-- **S158A** 11:53.04–11:57.88 — Royal Courts of Justice exterior (CC) + GFX "2021"
 - **S168A** 12:43.90–12:48.18 — Queen Mary in Delhi Durbar tiara (PD)
 - **S169A** 12:48.18–12:52.58 — Queen Elizabeth (consort) 1940s photo (PD gov/archive, verify) + GFX "1946"
 - **S179A** 13:32.02–13:37.14 — Asscher cleaving the Cullinan 1908 photo (PD)
@@ -101,36 +94,31 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S182A** 13:46.78–13:51.70 — Queen Mary photo with Cullinan brooch (PD)
 - **S186A** 14:03.96–14:06.46 — Queen Mary wearing the Cullinan III&IV brooch (PD photo, verify)
 - **S187A** 14:06.46–14:12.72 — Queen Mary in Delhi Durbar tiara with Cullinan (PD)
-- **S190B** 14:24.67–14:27.22 — St Paul's Cathedral 2012 (CC)
-- **S191A** 14:27.22–14:31.18 — **[JEWEL]** Elizabeth II 2012 Diamond Jubilee with brooch — rights-clear (Commons CC/gov, verify)
 - **S193A** 14:34.94–14:39.12 — Carolus-Duran portrait of Mrs Greville (National Trust, PD)
 - **S196A** 14:47.42–14:49.17 — William McEwan portrait (PD)
 - **S196B** 14:49.17–14:50.92 — McEwan's brewery Fountainbridge (PD)
-- **S209B** 15:51.90–15:54.44 — Queen Elizabeth (consort) 1940s (PD)
 - **S210A** 15:54.44–15:59.14 — Queen Elizabeth consort portrait (PD gov)
 - **S213A** 16:09.84–16:13.58 — Queen Mother later photo rights-clear (gov/CC, verify)
 - **S216A** 16:20.56–16:25.94 — **[JEWEL]** 2011 Turkey state banquet photo with Greville earrings + Coronation Necklace (rights-clear only, f
 - **S220B** 16:44.83–16:47.56 — Queen Victoria 1893 photo (PD)
 - **S225A** 17:03.56–17:07.94 — George III portrait (PD) + GFX "often said…"
-- **S228A** 17:18.78–17:24.34 — Nationaal Archief 1947 wedding photo (CC0, verify) + GFX "20 Nov 1947"
-- **S229A** 17:24.34–17:29.14 — **[JEWEL]** 1947 wedding photo crop on tiara (Nationaal Archief CC0 / PD gov newsreel)
 - **S231A** 17:34.08–17:39.50 — bridesmaids 1947 group photo (PD/CC0, verify)
-- **S234A** 17:46.96–17:51.34 — Queen Mother 1950s photo (gov/PD, verify)
 - **S235A** 17:51.34–17:53.67 — Queen Mother in later years rights-clear
 - **S246A** 18:40.90–18:44.20 — **[JEWEL]** Queen Mary in Fringe tiara (PD) — reveal
 - **S247A** 18:44.20–18:47.82 — **[JEWEL]** 1947 wedding photo (Nationaal Archief CC0) full
 - **S248B** 18:50.64–18:53.46 — **[JEWEL]** 1947 crop
 - **S249B** 18:56.86–19:00.26 — Elizabeth II later photo rights-clear
-- **S250A** 19:00.26–19:03.16 — **[JEWEL]** 1947 wedding photo slow push
 - **S255B** 19:25.86–19:29.48 — five first-wearer portraits fade
 - **S256A** 19:29.48–19:33.38 — **[JEWEL]** 1947 wedding image soft focus
 
 ## VERIFY rows
 
 - **S058A/main** File:Elizabeth II waves from the palace balcony after the Co — Basis: Flickr Commons 'No known copyright restrictions' statement by National Media Museum (photographer Paul Thompson, 1953); NOT an explicit public-domain declaration - Max to accept or reject. JEWEL: check visually what she wears on the balcony. Not the Beaton portrait. | JEWEL VERIFY: licence st
+- **S191A/alt1** File:Queen Elizabeth II with her British Prime Ministers, Di — IMAGE NOT DOWNLOADED (upload.wikimedia.org rate-limits this environment) - run fetch_pending.py; OGL v3 - licence not in allowed list: VERIFY licence not auto-classified: OGL 3 [1800x1323]
 
 ## [JEWEL] shots not yet visually checked
 
+- **S001A** — **[JEWEL]** Queen Elizabeth II in a tiara and jewels, any rights-clear photo 1950s–2010s (NOT Fringe
 - **S005A** — **[JEWEL]** Imperial State Crown / Crown regalia PD image (Tower of London regalia engraving or PD p
 - **S017A** — **[JEWEL]** Albert's sapphire brooch — rights-clear photo of Elizabeth II wearing it (Commons "Eliza
 - **S031A** — **[JEWEL]** Elizabeth II wearing the sapphire brooch (same source as beat 17, different crop)
@@ -138,8 +126,12 @@ Met, LOC and archive.org files were downloaded in full; their proofs are API rec
 - **S058A** — **[JEWEL]** Elizabeth II 1953 coronation-day image that is rights-clear (NOT Beaton portrait): newsr
 - **S089A** — **[JEWEL]** Kokoshnik tiara — Elizabeth II wearing it (Commons 1957 candidate, verify; US gov White 
 - **S119A** — **[JEWEL]** LAC 1959 tour portrait (PD) full frame
+- **S142A** — **[JEWEL]** Diana wearing Lover's Knot — US gov PD photo (White House/DoD 1985 visit; verify)
 - **S164A** — **[JEWEL]** Delhi Durbar necklace image — Queen Mary 1911–12 photo crop (PD) ; GFX "8.8 ct marquise"
+- **S191A** — **[JEWEL]** Elizabeth II 2012 Diamond Jubilee with brooch — rights-clear (Commons CC/gov, verify)
 - **S222A** — **[JEWEL]** Queen Mary wearing the Fringe tiara (PD photo, verify)
+- **S229A** — **[JEWEL]** 1947 wedding photo crop on tiara (Nationaal Archief CC0 / PD gov newsreel)
+- **S250A** — **[JEWEL]** 1947 wedding photo slow push
 
 ## Notes on decisions
 
